@@ -19,3 +19,7 @@ Feel free to checkout my other lists:
 
 * [How To Decide What To Build](https://dcgross.com/decide-what-to-build/),
   Daniel Gross (partner at Y Combinator).
+
+### Product-market fit
+
+* [🎞 How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4), Peter Reinhardt, co-founder and CEO of Segment.
