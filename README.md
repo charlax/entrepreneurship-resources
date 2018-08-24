@@ -23,3 +23,7 @@ Feel free to checkout my other lists:
 ### Product-market fit
 
 * [🎞 How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4), Peter Reinhardt, co-founder and CEO of Segment.
+
+### Design
+
+* [10 Small Design Mistakes We Still Make](https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708?ref=uxdesignweekly) 
