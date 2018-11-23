@@ -48,3 +48,4 @@ Feel free to checkout my other lists:
 ### Product-market fit
 
 * [🎞 How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4), Peter Reinhardt, co-founder and CEO of Segment.
+* [The First 100 Course](https://docs.google.com/document/d/104qgagSsp2rQQEDORGbYC0uqt0neYHCPxu-aUl4CuSQ/edit): a very complete handbook about getting to 100 customers.
