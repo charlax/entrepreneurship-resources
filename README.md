@@ -9,7 +9,9 @@
     - [Design](#design)
     - [Finding an idea](#finding-an-idea)
     - [Marketing](#marketing)
+    - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
     - [Product-market fit](#product-market-fit)
+    - [Sales](#sales)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -44,6 +46,11 @@ Feel free to checkout my other lists:
 
 * [The Only 10 Slides You Need in Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/), Guy Kawasaki
 * [The Best Elevator Pitch Examples, Templates, and Tactics](https://strategypeak.com/elevator-pitch-examples/), Kurian Tharakan
+* [Writing copy for landing pages](https://stripe.com/atlas/guides/landing-page-copy), Stripe Atlas 
+
+### Minimum Viable Product (MVP)
+
+* [Considering App vs. Website? Build a Website.](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/) 
 
 ### Product-market fit
 
