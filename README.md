@@ -10,6 +10,8 @@
     - [Finding an idea](#finding-an-idea)
     - [Marketing](#marketing)
     - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
+    - [Prioritization](#prioritization)
+    - [Product management](#product-management)
     - [Product-market fit](#product-market-fit)
     - [Sales](#sales)
 
@@ -51,6 +53,15 @@ Feel free to checkout my other lists:
 ### Minimum Viable Product (MVP)
 
 * [Considering App vs. Website? Build a Website.](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/) 
+
+### Prioritization
+
+* [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/) 
+
+### Product management
+
+* [Forget the MBA. Here’s the fastest way to become a product manager](https://hackernoon.com/forget-the-mba-heres-the-fastest-way-to-become-a-product-manager-b3a230a7c055)
+* [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10) (Quora)
 
 ### Product-market fit
 
