@@ -34,6 +34,11 @@ Feel free to checkout my other lists:
 
 ## Topics
 
+### Attention to details
+
+> Make every detail perfect and limit the number of details to perfect.
+
+Jack Dorsey, Twitter co-founder
 
 ### Design
 
@@ -43,20 +48,26 @@ Feel free to checkout my other lists:
 
 * [How To Decide What To Build](https://dcgross.com/decide-what-to-build/),
   Daniel Gross (partner at Y Combinator).
-  
+
+### Funding
+
+> Money is like gasoline on a road trip. You don't want to run out of gas on your trip, but you’re not doing a tour of gas stations.
+
+Tim O’Reilly, O’Reilly Media founder, and CEO
+
 ### Marketing
 
 * [The Only 10 Slides You Need in Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/), Guy Kawasaki
 * [The Best Elevator Pitch Examples, Templates, and Tactics](https://strategypeak.com/elevator-pitch-examples/), Kurian Tharakan
-* [Writing copy for landing pages](https://stripe.com/atlas/guides/landing-page-copy), Stripe Atlas 
+* [Writing copy for landing pages](https://stripe.com/atlas/guides/landing-page-copy), Stripe Atlas
 
 ### Minimum Viable Product (MVP)
 
-* [Considering App vs. Website? Build a Website.](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/) 
+* [Considering App vs. Website? Build a Website.](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
 
 ### Prioritization
 
-* [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/) 
+* [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 
 ### Product management
 
@@ -71,4 +82,4 @@ Feel free to checkout my other lists:
 ### Sales
 
 * [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
-* [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) 
+* [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
