@@ -20,6 +20,7 @@
     - [Product management](#product-management)
     - [Product-market fit](#product-market-fit)
     - [Sales](#sales)
+    - [Wireframing](#wireframing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -108,3 +109,8 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 
 * [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
+
+### Wireframing
+
+* [🎞 Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w) 
+* [🎞 Wireframing for Newbies](https://www.youtube.com/watch?v=KnZrypOaVCg) (with Balsamiq)
