@@ -60,6 +60,12 @@ Feel free to checkout my other lists:
 
 Jack Dorsey, Twitter co-founder
 
+### Competition
+
+> The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.
+
+Henry Ford
+
 ### Design
 
 * [10 Small Design Mistakes We Still Make](https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708)
@@ -132,6 +138,6 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 
 ### Wireframing
 
-* [🎞 Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w) 
+* [🎞 Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w)
 * [🎞 Wireframing for Newbies](https://www.youtube.com/watch?v=KnZrypOaVCg) (with Balsamiq)
 * [Wireframes are becoming less relevant — and that’s a good thing](https://medium.com/@seandexter1/wireframes-are-becoming-less-relevant-and-thats-a-good-thing-e66b30724a27)
