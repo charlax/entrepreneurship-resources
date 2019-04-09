@@ -10,6 +10,8 @@
     - [Articles](#articles)
   - [Topics](#topics)
     - [Attention to details](#attention-to-details)
+    - [CEO](#ceo)
+    - [Competition](#competition)
     - [Design](#design)
     - [Finding an idea](#finding-an-idea)
     - [Funding](#funding)
@@ -21,8 +23,10 @@
     - [Product management](#product-management)
     - [Product-market fit](#product-market-fit)
     - [Sales](#sales)
+    - [Stories of startups](#stories-of-startups)
     - [UX design](#ux-design)
     - [Wireframing](#wireframing)
+    - [Writing](#writing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -60,6 +64,10 @@ Feel free to checkout my other lists:
 
 Jack Dorsey, Twitter co-founder
 
+### CEO
+
+* [The role of the CEO](https://blog.usejournal.com/the-role-of-the-ceo-3d370c2e7469)
+
 ### Competition
 
 > The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.
@@ -71,6 +79,8 @@ Henry Ford
 * [10 Small Design Mistakes We Still Make](https://uxplanet.org/10-small-design-mistakes-we-still-make-1cd5f60bc708)
 * [7 tips to design faster](https://uxdesign.cc/7-tips-to-design-faster-ae01c6fa71f2)
 * [Principles For Designing Better Products](https://uxplanet.org/principles-for-designing-better-products-349f463c9ee5)
+* [How to simplify your design](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9)
+* [Checklist Design](https://www.checklist.design/): a collection of the best UX and UI practices.
 
 Tools:
 
@@ -98,10 +108,12 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 * [The Only 10 Slides You Need in Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/), Guy Kawasaki
 * [The Best Elevator Pitch Examples, Templates, and Tactics](https://strategypeak.com/elevator-pitch-examples/), Kurian Tharakan
 * [Writing copy for landing pages](https://stripe.com/atlas/guides/landing-page-copy), Stripe Atlas
+* [Five ways to build a $100 million business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
 
 ### Minimum Viable Product (MVP)
 
 * [Considering App vs. Website? Build a Website.](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
+* [Avoiding The Wrong MVP Approach](https://medium.com/@jmspool/avoiding-the-wrong-mvp-approach-65fe3e5c5c28)
 
 ### Mindset
 
@@ -130,6 +142,10 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 * [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
 
+### Stories of startups
+
+* [From Show HN to Series D](https://segment.com/blog/show-hn-to-series-d/)
+
 ### UX design
 
 * [Top 10 Application-Design Mistakes](https://www.nngroup.com/articles/top-10-application-design-mistakes/), Nielsen Norman Group
@@ -141,3 +157,7 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 * [🎞 Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w)
 * [🎞 Wireframing for Newbies](https://www.youtube.com/watch?v=KnZrypOaVCg) (with Balsamiq)
 * [Wireframes are becoming less relevant — and that’s a good thing](https://medium.com/@seandexter1/wireframes-are-becoming-less-relevant-and-thats-a-good-thing-e66b30724a27)
+
+### Writing
+
+* [How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
