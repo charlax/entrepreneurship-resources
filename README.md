@@ -20,10 +20,12 @@
     - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
     - [Mindset](#mindset)
     - [Prioritization](#prioritization)
+    - [Processes](#processes)
     - [Product management](#product-management)
     - [Product-market fit](#product-market-fit)
     - [Sales](#sales)
     - [Stories of startups](#stories-of-startups)
+    - [Toolkits](#toolkits)
     - [UX design](#ux-design)
     - [Wireframing](#wireframing)
     - [Writing](#writing)
@@ -51,6 +53,7 @@ Feel free to checkout my other lists:
 
 * [The Startup Playbook](https://playbook.samaltman.com/), Sam Altman (President of Y Combinator)
 * [Summary: How to Start a Startup (YC)](https://docs.google.com/document/d/1wkJ6Ruh2IiR-caT-PS3n5Yt5VKcmIsVhuQwjgqK7030/edit)
+* [Founder Books](https://postmake.io/books): a compilation of books recommended by 100+ entrepreneurs.
 
 ### Articles
 
@@ -88,8 +91,9 @@ Tools:
 
 ### Finding an idea
 
-* [How To Decide What To Build](https://dcgross.com/decide-what-to-build/),
-  Daniel Gross (partner at Y Combinator).
+* [How To Decide What To Build](https://dcgross.com/decide-what-to-build/), Daniel Gross (partner at Y Combinator).
+* [Are you put off building something because it already exists?](https://news.ycombinator.com/item?id=19774997): a great discussion on HackerNews.
+	* "Next time you come up with that great idea, don’t Google it for a week. Let your mind fester on the idea, allow it to grow like many branches from a trunk."
 
 ### Funding
 
@@ -122,6 +126,11 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 ### Prioritization
 
 * [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
+* [My Billion Dollar Mistake](https://producthabits.com/my-billion-dollar-mistake/): why having a prioritisation process  is key to keeping your edge.
+
+### Processes
+
+* [Startup bibles](https://slite.com/startup-bibles): curation of internal processes and resources that successful companies have publicly shared, including pitch deck.
 
 ### Product management
 
@@ -131,11 +140,16 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 * [Startups don’t need product managers who are visionaries](https://venturebeat.com/2019/02/03/startups-dont-need-product-managers-who-are-visionaries/)
 * [Pixar’s Rules of Storytelling Applied to Product Managers & UX Designers](https://medium.com/build-acl/pixars-rules-of-storytelling-applied-to-product-managers-ux-designers-420cec0a18a6)
 * [Free Resources for Product Management](https://usefyi.com/templates/product-management/)
+* [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/), Ben Horowitz.
+* [PM Starter Pack](https://pmstarterpack.onfielder.com/): how to get started in product management
+* [Don’t trust agile alone to build successful products](http://ui-patterns.com/blog/dont-trust-agile-alone-to-build-successful-products), UI patterns.
+	* "Too much focus on what and when to build without asking why, creates tunnel vision."
 
 ### Product-market fit
 
 * [🎞 How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4), Peter Reinhardt, co-founder and CEO of Segment.
 * [The First 100 Course](https://docs.google.com/document/d/104qgagSsp2rQQEDORGbYC0uqt0neYHCPxu-aUl4CuSQ/edit): a very complete handbook about getting to 100 customers.
+* [I'm Walking Away From the Product I Spent a Year Building](https://www.derrickreimer.com/essays/2019/05/17/im-walking-away-from-the-product-i-spent-a-year-building.html): failing to find a product-marking fit.
 
 ### Sales
 
@@ -145,6 +159,10 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 ### Stories of startups
 
 * [From Show HN to Series D](https://segment.com/blog/show-hn-to-series-d/)
+
+### Toolkits
+
+* [Techstars' entrepreneur toolkit](https://toolkit.techstars.com/)
 
 ### UX design
 
