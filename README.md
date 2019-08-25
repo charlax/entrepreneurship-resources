@@ -17,13 +17,16 @@
     - [Funding](#funding)
     - [Hiring](#hiring)
     - [Marketing](#marketing)
+    - [Meta: advice about advice](#meta-advice-about-advice)
     - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
     - [Mindset](#mindset)
+    - [Pitch decks](#pitch-decks)
     - [Prioritization](#prioritization)
     - [Processes](#processes)
     - [Product management](#product-management)
     - [Product-market fit](#product-market-fit)
     - [Sales](#sales)
+    - [Security](#security)
     - [Stories of startups](#stories-of-startups)
     - [Toolkits](#toolkits)
     - [UX design](#ux-design)
@@ -58,6 +61,17 @@ Feel free to checkout my other lists:
 ### Articles
 
 * [12 Things I Learned from Chris Dixon about Startups](https://a16z.com/2015/01/18/12-things-learned-from-chris-dixon-about-startups/)
+* [The 10 most common entrepreneurial mistakes I’ve seen students make](https://salon.thefamily.co/the-10-most-common-entrepreneurial-mistakes-ive-seen-students-make-547d7f7ac0d4)
+	* Not really getting what a startup is
+	* Focusing on a junk market
+	* Why aren’t you starting TODAY?
+	* Pirates are in rare supply these days
+	* You have to put in more intensity
+	* Alter Ego vs. Alter Zero
+	* True fans vs. Too good friends
+	* Good money vs. bad donations
+	* Do you really want to be mentored? Incubated!?
+	* Is a startup really what you want right now?
 
 ## Topics
 
@@ -84,6 +98,10 @@ Henry Ford
 * [Principles For Designing Better Products](https://uxplanet.org/principles-for-designing-better-products-349f463c9ee5)
 * [How to simplify your design](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9)
 * [Checklist Design](https://www.checklist.design/): a collection of the best UX and UI practices.
+* [7 simple & effective methods to get better at Visual/UI Design](https://uxdesign.cc/7-simple-methods-to-get-better-at-visual-ui-design-21fec0f417b5)
+	* Get familiar with design patterns
+	* Train your eye for good design
+	* Learn by copying top designers
 
 Tools:
 
@@ -94,6 +112,7 @@ Tools:
 * [How To Decide What To Build](https://dcgross.com/decide-what-to-build/), Daniel Gross (partner at Y Combinator).
 * [Are you put off building something because it already exists?](https://news.ycombinator.com/item?id=19774997): a great discussion on HackerNews.
 	* "Next time you come up with that great idea, don’t Google it for a week. Let your mind fester on the idea, allow it to grow like many branches from a trunk."
+* [Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
 
 ### Funding
 
@@ -114,6 +133,17 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 * [Writing copy for landing pages](https://stripe.com/atlas/guides/landing-page-copy), Stripe Atlas
 * [Five ways to build a $100 million business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
 
+Resources:
+
+* [Free Resources for Marketing](https://usefyi.com/templates/marketing-templates/)
+* [Email screenshots from top brands to inspire you when you're stuck](https://pageflows.com/emails/)
+
+### Meta: advice about advice
+
+* [Most startup theory is ex-post, therefore bs](https://shafyy.com/post/startup-theory-ex-post/)
+	* Do you think Musk copied that strategy from the business school he never went to? Do you think Brian Chesky of Airbnb heard that strategy from a friend?
+	* The most satisfying thing about being an entrepreneur is that you can do what you think makes sense. That doesn’t mean don’t get advice. But get advice from people who know you, who you know, and most importantly, learn how to apply that advice.
+
 ### Minimum Viable Product (MVP)
 
 * [Considering App vs. Website? Build a Website.](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
@@ -122,6 +152,12 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 ### Mindset
 
 * [How To Be Successful](http://blog.samaltman.com/how-to-be-successful), Sam Altman
+* [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
+
+### Pitch decks
+
+* [Funded pitch decks](https://www.fundedpitchdecks.com/)
+* [30 Legendary Startup Pitch Decks And What You Can Learn From Them](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
 
 ### Prioritization
 
@@ -144,6 +180,7 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 * [PM Starter Pack](https://pmstarterpack.onfielder.com/): how to get started in product management
 * [Don’t trust agile alone to build successful products](http://ui-patterns.com/blog/dont-trust-agile-alone-to-build-successful-products), UI patterns.
 	* "Too much focus on what and when to build without asking why, creates tunnel vision."
+* [Shape Up](https://basecamp.com/shapeup): free book about product management from Basecamp.
 
 ### Product-market fit
 
@@ -155,6 +192,13 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 
 * [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
+* [How Jeff Johnson sold Nike's first shoes](https://marketingexamples.com/direct/how-nike-sold-first-shoes)
+	* Every time Johnson sold a pair of shoes he’d create an index card for that customer. He’d jot down all manner of minutiae details: shoe size, shoe preference, favourite distance, etc…
+	* Johnson used this handcrafted database to keep in touch with customers. He’d send birthday cards, training tips, notes of encouragement before big races.
+
+### Security
+
+* [The SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist)
 
 ### Stories of startups
 
@@ -166,9 +210,17 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 
 ### UX design
 
+See also the relevant section on my [professional-programming list](https://github.com/charlax/professional-programming#design-visual-ux-ui)
+
 * [Top 10 Application-Design Mistakes](https://www.nngroup.com/articles/top-10-application-design-mistakes/), Nielsen Norman Group
 * [A comprehensive (and honest) list of UX clichés](https://uxdesign.cc/a-comprehensive-and-honest-list-of-ux-clich%C3%A9s-96e2a08fb2e9)
 * [Why Everyone Should Read Customer Support Emails](https://medium.com/s/please-advise/why-everyone-should-read-support-emails-42ca2172e23e)
+* [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
+	* Obey the Law of Locality
+	* ABD: Anything But Dropdowns
+	* Pass the Squint Test
+	* Teach by example
+* [10 Usability Heuristics Every Designer Should Know](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)
 
 ### Wireframing
 
