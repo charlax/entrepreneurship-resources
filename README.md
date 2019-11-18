@@ -13,6 +13,7 @@
     - [CEO](#ceo)
     - [Competition](#competition)
     - [Design](#design)
+    - [Ethics](#ethics)
     - [Finding an idea](#finding-an-idea)
     - [Funding](#funding)
     - [Hiring](#hiring)
@@ -111,6 +112,12 @@ Henry Ford
 Tools:
 
 * [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+
+### Ethics
+
+> Being good is an adventure far more violent and daring than sailing round the world
+
+G. K. Chesterton
 
 ### Finding an idea
 
