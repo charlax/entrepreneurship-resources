@@ -16,20 +16,25 @@
     - [Finding an idea](#finding-an-idea)
     - [Funding](#funding)
     - [Hiring](#hiring)
+    - [Learning](#learning)
     - [Marketing](#marketing)
     - [Meta: advice about advice](#meta-advice-about-advice)
     - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
     - [Mindset](#mindset)
     - [Pitch decks](#pitch-decks)
+    - [Pivoting](#pivoting)
     - [Prioritization](#prioritization)
     - [Processes](#processes)
     - [Product management](#product-management)
     - [Product-market fit](#product-market-fit)
+    - [Prototyping](#prototyping)
     - [Sales](#sales)
     - [Security](#security)
     - [Stories of startups](#stories-of-startups)
     - [Toolkits](#toolkits)
-    - [UX design](#ux-design)
+    - [UX](#ux)
+      - [UX Design](#ux-design)
+      - [UX Research](#ux-research)
     - [Wireframing](#wireframing)
     - [Writing](#writing)
 
@@ -113,6 +118,16 @@ Tools:
 * [Are you put off building something because it already exists?](https://news.ycombinator.com/item?id=19774997): a great discussion on HackerNews.
 	* "Next time you come up with that great idea, don’t Google it for a week. Let your mind fester on the idea, allow it to grow like many branches from a trunk."
 * [Startup idea checklist](https://www.defmacro.org/2019/03/26/startup-checklist.html)
+* [First Principles: The Building Blocks of True Knowledge](https://fs.blog/2018/04/first-principles/) 
+	* Socratic questioning can be used to establish first principles through stringent analysis.
+	* A common way that people limit what’s possible is to tell themselves that all the good ideas are taken. Yet, people have been saying this for hundreds of years — literally — and companies keep starting and competing with different ideas, variations, and strategies.
+	* The iPhone wasn’t first, it was better. Microsoft wasn’t the first to sell operating systems; it just had a better business model.
+	* Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible.
+	* Many people mistakenly believe that creativity is something that only some of us are born with, and either we have it or we don’t. Fortunately, there seems to be ample evidence that this isn’t true.
+
+> As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.
+
+— Harrington Emerson
 
 ### Funding
 
@@ -125,6 +140,12 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 Checkout the hiring section on my [charlax/engineering-management](https://github.com/charlax/engineering-management/).
 
 * [Good Job Descriptions](https://www.goodjobdescription.com/): good job descriptions from the most loved companies
+
+### Learning
+
+>  It is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, i.e., the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.
+
+Elon Musk
 
 ### Marketing
 
@@ -148,16 +169,35 @@ Resources:
 
 * [Considering App vs. Website? Build a Website.](https://www.atrium.co/blog/founders-should-build-website-not-mobile-app/)
 * [Avoiding The Wrong MVP Approach](https://medium.com/@jmspool/avoiding-the-wrong-mvp-approach-65fe3e5c5c28)
+* [Signs You Aren't Really Building a Minimum Viable Product](http://www.panozzaj.com/blog/2012/01/11/signs-you-arent-really-building-a-minimum-viable-product/) 
+	* A MVP is not a minimal product, it is a strategy and process directed toward making and selling a product to customers.
+	* You should start with the riskiest assumptions that you can test and try to make them fail.
+
+> The lesson of the MVP is that any additional work beyond what was required to start learning is waste, no matter how important it might have seemed at the time.
+
+-- Eric Ries, Lean Startup
+
+> MVP, despite the name, is not about creating minimal products. If your goal is simply to scratch a clear itch or build something for a quick flip, you really don’t need the MVP. In fact, MVP is quite annoying, because it imposes extra overhead. We have to manage to learn something from our first product iteration. In a lot of cases, this requires a lot of energy invested in talking to customers or metrics and analytics.
+
+-- Eric Ries, Lean Startup
 
 ### Mindset
 
 * [How To Be Successful](http://blog.samaltman.com/how-to-be-successful), Sam Altman
 * [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 
+> It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
+
+Theodore Roosevelt
+
 ### Pitch decks
 
 * [Funded pitch decks](https://www.fundedpitchdecks.com/)
 * [30 Legendary Startup Pitch Decks And What You Can Learn From Them](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
+
+### Pivoting
+
+* [Knowing When to Pivot](https://ecorner.stanford.edu/in-brief/knowing-when-to-pivot/), Stanford eCorner
 
 ### Prioritization
 
@@ -188,6 +228,20 @@ Resources:
 * [The First 100 Course](https://docs.google.com/document/d/104qgagSsp2rQQEDORGbYC0uqt0neYHCPxu-aUl4CuSQ/edit): a very complete handbook about getting to 100 customers.
 * [I'm Walking Away From the Product I Spent a Year Building](https://www.derrickreimer.com/essays/2019/05/17/im-walking-away-from-the-product-i-spent-a-year-building.html): failing to find a product-marking fit.
 
+### Prototyping
+
+* [The joy of sketch(ing)](http://www.uxforthemasses.com/sketching/)
+	* Sketching stops you wasting your effort
+	* Sketching encourages you to focus on the steak, not just the sizzle
+	* Sketching opens up design to everyone
+	* Includes practical tips.
+* 📖 [Sketching User Experiences: Getting the Design Right and the Right Design](https://www.amazon.com/Sketching-User-Experiences-Interactive-Technologies/dp/0123740371/ref=sr_1_2?keywords=Sketching+User+Experiences&qid=1574087092&sr=8-2#customerReviews), Bill Buxton
+* [Sketching: the Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool/), A List Apart
+	* Includes practical tips and references.
+* [Prototyping](https://www.usability.gov/how-to-and-tools/methods/prototyping.html), Usability.gov
+	* High-Fidelity and Low-Fidelity Prototyping
+	* Creating Paper Prototypes 
+
 ### Sales
 
 * [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
@@ -203,12 +257,29 @@ Resources:
 ### Stories of startups
 
 * [From Show HN to Series D](https://segment.com/blog/show-hn-to-series-d/)
+* [What I Learned Co-Founding Dribbble](http://simplebits.com/2019/06/25/dribbble.html) 
+	* Choose your partner wisely
+	* Start with a t-shirt
+	* Your first 100 members are critical
+	* Pave the cowpaths
+	* Persistent iteration over flashy launches
+	* Grow thick skin. Quickly.
+	* Trends come and go and come back again
+	* People and relationships are what’s most important
+	* Stay sharp with side projects
+	* Identify when you’re being stubborn
+	* Write, teach, and share what you’re learning
+	* Don’t take funding
+	* Take care of yourself first
+	* Knowing when to let go
 
 ### Toolkits
 
 * [Techstars' entrepreneur toolkit](https://toolkit.techstars.com/)
 
-### UX design
+### UX
+
+#### UX Design
 
 See also the relevant section on my [professional-programming list](https://github.com/charlax/professional-programming#design-visual-ux-ui)
 
@@ -222,11 +293,21 @@ See also the relevant section on my [professional-programming list](https://gith
 	* Teach by example
 * [10 Usability Heuristics Every Designer Should Know](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)
 
+Resources:
+
+* [UX Frameworks](https://www.uxframeworks.design/): A resource to find and share frameworks for design research, synthesis, and ideation.
+
+#### UX Research
+
+* [GV’s Guide to UX Research for Startups](https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3) 
+
 ### Wireframing
 
 * [🎞 Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w)
 * [🎞 Wireframing for Newbies](https://www.youtube.com/watch?v=KnZrypOaVCg) (with Balsamiq)
 * [Wireframes are becoming less relevant — and that’s a good thing](https://medium.com/@seandexter1/wireframes-are-becoming-less-relevant-and-thats-a-good-thing-e66b30724a27)
+* [Validate product design ideas with wireframes](https://www.simonmccade.com/blog/validate-product-design-ideas-with-wireframes?ref=uxdesignweekly) 
+	* Low-fidelity wireframes can confirm the validity of your product ideas
 
 ### Writing
 
