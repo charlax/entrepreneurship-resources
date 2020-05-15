@@ -12,10 +12,12 @@
     - [Attention to details](#attention-to-details)
     - [CEO](#ceo)
     - [Competition](#competition)
+    - [Data (analytics)](#data-analytics)
     - [Design](#design)
     - [Ethics](#ethics)
     - [Finding an idea](#finding-an-idea)
     - [Funding](#funding)
+    - [Growth](#growth)
     - [Hiring](#hiring)
     - [Learning](#learning)
     - [Marketing](#marketing)
@@ -38,6 +40,7 @@
       - [UX Research](#ux-research)
     - [Wireframing](#wireframing)
     - [Writing](#writing)
+  - [Other lists](#other-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -90,12 +93,17 @@ Jack Dorsey, Twitter co-founder
 ### CEO
 
 * [The role of the CEO](https://blog.usejournal.com/the-role-of-the-ceo-3d370c2e7469)
+* YCombinator, [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/) 
 
 ### Competition
 
 > The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.
 
 Henry Ford
+
+### Data (analytics)
+
+* [Analytics Academy](https://segment.com/academy/collecting-data/), Segment. Contains lots of processes and ideas about how to be data-driven.
 
 ### Design
 
@@ -142,6 +150,10 @@ G. K. Chesterton
 
 Tim O’Reilly, O’Reilly Media founder, and CEO
 
+### Growth
+
+* [UX Case Studies](https://growth.design/case-studies/?ref=producthunt): a list of growth and UI case studies. The comics format is very engaging.
+
 ### Hiring
 
 Checkout the hiring section on my [charlax/engineering-management](https://github.com/charlax/engineering-management/).
@@ -179,6 +191,9 @@ Resources:
 * [Signs You Aren't Really Building a Minimum Viable Product](http://www.panozzaj.com/blog/2012/01/11/signs-you-arent-really-building-a-minimum-viable-product/) 
 	* A MVP is not a minimal product, it is a strategy and process directed toward making and selling a product to customers.
 	* You should start with the riskiest assumptions that you can test and try to make them fail.
+* A Smart Bear, [I hate MVPs. So do your customers. Make it SLC instead.](https://blog.asmartbear.com/slc.html) 
+	* MVPs are too M and almost never V.
+	* An experiment should be Simple, Lovable and Complete.
 
 > The lesson of the MVP is that any additional work beyond what was required to start learning is waste, no matter how important it might have seemed at the time.
 
@@ -228,6 +243,7 @@ Theodore Roosevelt
 * [Don’t trust agile alone to build successful products](http://ui-patterns.com/blog/dont-trust-agile-alone-to-build-successful-products), UI patterns.
 	* "Too much focus on what and when to build without asking why, creates tunnel vision."
 * [Shape Up](https://basecamp.com/shapeup): free book about product management from Basecamp.
+* [A Letter To A New Product Manager](https://blog.coinbase.com/a-letter-to-a-new-product-manager-d5d96c228bf4), The Coinbase Blog
 
 ### Product-market fit
 
@@ -299,6 +315,8 @@ See also the relevant section on my [professional-programming list](https://gith
 	* Pass the Squint Test
 	* Teach by example
 * [10 Usability Heuristics Every Designer Should Know](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)
+* 📚 [Selected Books on Design, User eXperience, Mobile, Accessibility & more](https://stephaniewalter.design/blog/bibliography-selected-books-about-design-user-experience/?ref=uxdesignweekly), Stéphanie Walter. Includes books about UX research, UX design, psychology, information architecture, content strategy, web design, typography, methods, collaboration, mobile, accessibility...
+* [BATUX - Using a UX process to redesign Batman’s classic outfit](http://batux.design/): a very engaging way to learn about the UX process.
 
 Resources:
 
@@ -319,3 +337,7 @@ Resources:
 ### Writing
 
 * [How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
+
+## Other lists
+
+* [Road to Scale](https://roadtoscale.com/): a curated knowledge library for every stage of your startup journey.
