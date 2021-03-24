@@ -67,6 +67,7 @@ Feel free to checkout my other lists:
 - [The Startup Playbook](https://playbook.samaltman.com/), Sam Altman (President of Y Combinator)
 - [Summary: How to Start a Startup (YC)](https://docs.google.com/document/d/1wkJ6Ruh2IiR-caT-PS3n5Yt5VKcmIsVhuQwjgqK7030/edit)
 - [Founder Books](https://postmake.io/books): a compilation of books recommended by 100+ entrepreneurs.
+- [YC Startup Library](https://www.ycombinator.com/library)
 
 ### Articles
 
@@ -90,6 +91,10 @@ Feel free to checkout my other lists:
 > Make every detail perfect and limit the number of details to perfect.
 
 Jack Dorsey, Twitter co-founder
+
+### Attitude
+
+- [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 
 ### CEO
 
@@ -116,6 +121,7 @@ Henry Ford
 - [7 simple & effective methods to get better at Visual/UI Design](https://uxdesign.cc/7-simple-methods-to-get-better-at-visual-ui-design-21fec0f417b5)
   - Get familiar with design patterns
   - Train your eye for good design \* Learn by copying top designers
+- [Nodesign.dev](https://nodesign.dev/): a collection of tools for developers who have little to no artistic talent
 
 Tools:
 
@@ -166,10 +172,12 @@ Elon Musk
 
 ### Marketing
 
-- [The Only 10 Slides You Need in Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/), Guy Kawasaki
 - [The Best Elevator Pitch Examples, Templates, and Tactics](https://strategypeak.com/elevator-pitch-examples/), Kurian Tharakan
 - [Writing copy for landing pages](https://stripe.com/atlas/guides/landing-page-copy), Stripe Atlas
-- [Five ways to build a \$100 million business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
+- [Five ways to build a $100 million business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
+- [The man who produced Steve Jobs’ keynotes for 20 years](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
+- [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
+- [How the biggest consumer apps got their first 1,000 users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
 
 Resources:
 
@@ -214,6 +222,8 @@ Theodore Roosevelt
 
 - [Funded pitch decks](https://www.fundedpitchdecks.com/)
 - [30 Legendary Startup Pitch Decks And What You Can Learn From Them](https://piktochart.com/blog/startup-pitch-decks-what-you-can-learn/)
+- [The Only 10 Slides You Need in Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/), Guy Kawasaki
+- [Start House](https://starthouse.xyz/)
 
 ### Pivoting
 
@@ -238,9 +248,14 @@ Theodore Roosevelt
 - [Free Resources for Product Management](https://usefyi.com/templates/product-management/)
 - [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/), Ben Horowitz.
 - [PM Starter Pack](https://pmstarterpack.onfielder.com/): how to get started in product management
-- [Don’t trust agile alone to build successful products](http://ui-patterns.com/blog/dont-trust-agile-alone-to-build-successful-products), UI patterns. \* "Too much focus on what and when to build without asking why, creates tunnel vision."
+- [Don’t trust agile alone to build successful products](http://ui-patterns.com/blog/dont-trust-agile-alone-to-build-successful-products), UI patterns.
+  - Too much focus on what and when to build without asking why, creates tunnel vision.
 - [Shape Up](https://basecamp.com/shapeup): free book about product management from Basecamp.
 - [A Letter To A New Product Manager](https://blog.coinbase.com/a-letter-to-a-new-product-manager-d5d96c228bf4), The Coinbase Blog
+- [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb)
+  - A product succeeds because it solves a problem for people. This sounds very basic, but it is the single most important thing to understand about building good products.
+- [Scaling Product Delivery: The "Dirty" Secret of High Performing Product Teams](https://www.reforge.com/blog/scaling-product-delivery)
+- [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
 
 ### Product-market fit
 
@@ -268,6 +283,7 @@ Theodore Roosevelt
 - [How Jeff Johnson sold Nike's first shoes](https://marketingexamples.com/direct/how-nike-sold-first-shoes)
   - Every time Johnson sold a pair of shoes he’d create an index card for that customer. He’d jot down all manner of minutiae details: shoe size, shoe preference, favourite distance, etc…
   - Johnson used this handcrafted database to keep in touch with customers. He’d send birthday cards, training tips, notes of encouragement before big races.
+- [23 rules to run a software startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle)
 
 ### Security
 
@@ -291,6 +307,7 @@ Theodore Roosevelt
   - Don’t take funding
   - Take care of yourself first
   - Knowing when to let go
+- [Lessons for early stage founders by Calvin French-Owen](https://calv.info/early-stage-lessons)
 
 ### Toolkits
 
@@ -313,6 +330,7 @@ See also the relevant section on my [professional-programming list](https://gith
 - [10 Usability Heuristics Every Designer Should Know](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)
 - 📚 [Selected Books on Design, User eXperience, Mobile, Accessibility & more](https://stephaniewalter.design/blog/bibliography-selected-books-about-design-user-experience/?ref=uxdesignweekly), Stéphanie Walter. Includes books about UX research, UX design, psychology, information architecture, content strategy, web design, typography, methods, collaboration, mobile, accessibility...
 - [BATUX - Using a UX process to redesign Batman’s classic outfit](http://batux.design/): a very engaging way to learn about the UX process.
+- [Sketching: the Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool/)
 
 Resources:
 
@@ -321,6 +339,7 @@ Resources:
 #### UX Research
 
 - [GV’s Guide to UX Research for Startups](https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3)
+- [12 Ways To Improve User Interview Questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/)
 
 ### Wireframing
 
