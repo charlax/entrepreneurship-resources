@@ -256,6 +256,7 @@ Theodore Roosevelt
   - A product succeeds because it solves a problem for people. This sounds very basic, but it is the single most important thing to understand about building good products.
 - [Scaling Product Delivery: The "Dirty" Secret of High Performing Product Teams](https://www.reforge.com/blog/scaling-product-delivery)
 - [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
+- [Effective Product Management](https://cmcluck.medium.com/effective-product-management-8021831a184)
 
 ### Product-market fit
 
