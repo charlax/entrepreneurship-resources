@@ -100,6 +100,7 @@ Jack Dorsey, Twitter co-founder
 
 - [The role of the CEO](https://blog.usejournal.com/the-role-of-the-ceo-3d370c2e7469)
 - YCombinator, [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
+- [Mindsets and practices of the best CEOs](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-mindsets-and-practices-of-excellent-ceos), McKinsey
 
 ### Competition
 
@@ -285,6 +286,10 @@ Theodore Roosevelt
   - Every time Johnson sold a pair of shoes he’d create an index card for that customer. He’d jot down all manner of minutiae details: shoe size, shoe preference, favourite distance, etc…
   - Johnson used this handcrafted database to keep in touch with customers. He’d send birthday cards, training tips, notes of encouragement before big races.
 - [23 rules to run a software startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle)
+
+### Scaling the team (org & management)
+
+- [When Executives Break](http://blog.eladgil.com/2021/02/when-executives-break.html)
 
 ### Security
 
