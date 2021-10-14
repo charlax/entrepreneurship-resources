@@ -315,6 +315,12 @@ Theodore Roosevelt
   - Knowing when to let go
 - [Lessons for early stage founders by Calvin French-Owen](https://calv.info/early-stage-lessons)
 
+### Strategy
+
+- [A New License to Future Proof the Commoditization of Data Integration](https://airbyte.io/blog/a-new-license-to-future-proof-the-commoditization-of-data-integration) lays out the rationale behind Airbyte's business model and open sourcing strategy.
+  - If it helps individual contributors or small teams, then it should be free and open source; if it serves an organization’s needs, then it should be monetized.
+  - They use the Elastic License v2 (ELv2) to prevent "some huge companies [from taking] the Airbyte project and start offering a clone of Airbyte Cloud".
+
 ### Toolkits
 
 - [Techstars' entrepreneur toolkit](https://toolkit.techstars.com/)
