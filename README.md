@@ -1,7 +1,6 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-# Table of Contents
+## Table of Contents
 
 - [Entrepreneurship resources](#entrepreneurship-resources)
   - [Introduction](#introduction)
@@ -11,6 +10,7 @@
     - [Articles](#articles)
   - [Topics](#topics)
     - [Attention to details](#attention-to-details)
+    - [Attitude](#attitude)
     - [CEO](#ceo)
     - [Competition](#competition)
     - [Data (analytics)](#data-analytics)
@@ -33,8 +33,10 @@
     - [Product-market fit](#product-market-fit)
     - [Prototyping](#prototyping)
     - [Sales](#sales)
+    - [Scaling the team (org & management)](#scaling-the-team-org--management)
     - [Security](#security)
     - [Stories of startups](#stories-of-startups)
+    - [Strategy](#strategy)
     - [Toolkits](#toolkits)
     - [UX](#ux)
       - [UX Design](#ux-design)
