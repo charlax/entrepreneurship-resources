@@ -20,6 +20,7 @@
     - [Funding](#funding)
     - [Growth](#growth)
     - [Hiring](#hiring)
+    - [IP (Intellectual Property) and patents](#ip-intellectual-property-and-patents)
     - [Learning](#learning)
     - [Marketing](#marketing)
     - [Meta: advice about advice](#meta-advice-about-advice)
@@ -166,6 +167,11 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 Checkout the hiring section on my [charlax/engineering-management](https://github.com/charlax/engineering-management/).
 
 - [Good Job Descriptions](https://www.goodjobdescription.com/): good job descriptions from the most loved companies
+
+### IP (Intellectual Property) and patents
+
+- [How to Change the World: Defensibility](https://guykawasaki.com/how_to_change_t/), Guy Kawasaki
+- [Counterpoint: Patents and Defensibility](https://guykawasaki.com/counterpoint_pa/), Guy Kawasaki
 
 ### Learning
 
