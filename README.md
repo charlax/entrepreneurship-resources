@@ -9,9 +9,11 @@
     - [Books and playbooks](#books-and-playbooks)
     - [Articles](#articles)
   - [Topics](#topics)
+    - [Acquisition](#acquisition)
     - [Attention to details](#attention-to-details)
     - [Attitude](#attitude)
     - [CEO](#ceo)
+    - [Communication](#communication)
     - [Competition](#competition)
     - [Data (analytics)](#data-analytics)
     - [Design](#design)
@@ -89,6 +91,10 @@ Feel free to checkout my other lists:
 
 ## Topics
 
+### Acquisition
+
+- [The red flags and magic numbers that investors look for in your startup’s metrics – 80 slide deck included!](https://andrewchen.com/investor-metrics-deck/), Andrew Chen
+
 ### Attention to details
 
 > Make every detail perfect and limit the number of details to perfect.
@@ -104,6 +110,10 @@ Jack Dorsey, Twitter co-founder
 - [The role of the CEO](https://blog.usejournal.com/the-role-of-the-ceo-3d370c2e7469)
 - YCombinator, [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
 - [Mindsets and practices of the best CEOs](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-mindsets-and-practices-of-excellent-ceos), McKinsey
+
+### Communication
+
+- [Operations and Internal Communication Strategies For Effective CEOs](https://pulseasync.com/operators/operations-and-internal-communication-strategies-for-effective-ceos/?)
 
 ### Competition
 
