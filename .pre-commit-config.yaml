@@ -1,14 +1,22 @@
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v2.3.0
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.0.1
     hooks:
-    -   id: check-yaml
-    -   id: end-of-file-fixer
-    -   id: trailing-whitespace
--   repo: https://github.com/thlorenz/doctoc
-    rev: v1.4.0
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+  # - repo: https://github.com/pre-commit/mirrors-prettier
+  #   rev: "v2.5.1"
+  #   hooks:
+  #     - id: prettier
+  - repo: https://github.com/thlorenz/doctoc
+    rev: v2.1.0
     hooks:
-    -   id: doctoc
+      - id: doctoc
         args:
           - --title
           - "## Table of Contents"
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.3.2
+    hooks:
+      - id: markdownlint-cli2
