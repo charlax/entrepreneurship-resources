@@ -30,11 +30,13 @@
     - [Mindset](#mindset)
     - [Pitch decks](#pitch-decks)
     - [Pivoting](#pivoting)
+    - [Pricing](#pricing)
     - [Prioritization](#prioritization)
     - [Processes](#processes)
     - [Product management](#product-management)
     - [Product-market fit](#product-market-fit)
     - [Prototyping](#prototyping)
+    - [Rituals](#rituals)
     - [Sales](#sales)
     - [Scaling the team (org & management)](#scaling-the-team-org--management)
     - [Security](#security)
@@ -54,8 +56,15 @@
 
 ## Introduction
 
-This repository offers a list of resources (books, articles, videos, etc.)
-related to entrepreneurship.
+This repository offers a list of resources (books, articles, videos, etc.) related to entrepreneurship.
+
+Items:
+
+- 🧰 : list of resources
+- 📖 : book
+- 🎞 : video/movie extract/movie/talk
+- 🏙 : slides/presentation
+- ⭐️ : must-read
 
 ### My other lists
 
@@ -191,9 +200,10 @@ Elon Musk
 
 ### Marketing
 
+Check out the Sales section as well.
+
 - [The Best Elevator Pitch Examples, Templates, and Tactics](https://strategypeak.com/elevator-pitch-examples/), Kurian Tharakan
 - [Writing copy for landing pages](https://stripe.com/atlas/guides/landing-page-copy), Stripe Atlas
-- [Five ways to build a $100 million business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html)
 - [The man who produced Steve Jobs’ keynotes for 20 years](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
 - [How the biggest consumer apps got their first 1,000 users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
@@ -248,6 +258,14 @@ Theodore Roosevelt
 
 - [Knowing When to Pivot](https://ecorner.stanford.edu/in-brief/knowing-when-to-pivot/), Stanford eCorner
 
+### Pricing
+
+- [Pricing model at GitLab](https://about.gitlab.com/company/pricing/)
+- 🎞 [Startup Pricing 101: Growth, Marketing, Monetization](https://www.ycombinator.com/library/6h-startup-pricing-101), Y Combinator
+- [It’s Price Before Product. Period.](https://review.firstround.com/its-price-before-product-period)
+- [Nine Rules from Monetizing Innovation](https://www.skmurphy.com/blog/2016/11/16/nine-rules-from-monetizing-innovation/)
+- [Pricing Your Product](https://articles.sequoiacap.com/pricing-your-product), Sequoia
+
 ### Prioritization
 
 - [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
@@ -296,14 +314,36 @@ Theodore Roosevelt
   - High-Fidelity and Low-Fidelity Prototyping
   - Creating Paper Prototypes
 
+### Rituals
+
+- [The First Gusto Polish-a-thon](https://medium.com/gusto-design/the-first-gusto-polish-a-thon-dc18389112f6)
+
 ### Sales
 
 - [The Greatest Sales Deck I’ve Ever Seen](https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0)
-- [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make)
+- [Three Sales Mistakes Software Engineers Make](https://www.tefter.io/bookmarks/52931/readable)
 - [How Jeff Johnson sold Nike's first shoes](https://marketingexamples.com/direct/how-nike-sold-first-shoes)
   - Every time Johnson sold a pair of shoes he’d create an index card for that customer. He’d jot down all manner of minutiae details: shoe size, shoe preference, favourite distance, etc…
   - Johnson used this handcrafted database to keep in touch with customers. He’d send birthday cards, training tips, notes of encouragement before big races.
 - [23 rules to run a software startup with minimum hassle](https://www.joisig.com/rules-software-startup-minimum-hassle)
+  - Recurring revenue is the way to go
+  - Stick everybody on a month-by-month plan
+  - Don’t do freemium
+  - Don’t apply for grants
+  - No patents
+  - Don’t do trade shows/conferences
+- [A Simple Sales Methodology for B2B SaaS Startups](https://medium.com/strategic-content-marketing/a-simple-sales-methodology-for-b2b-saas-startups-bbc119247e1d)
+- [Five ways to build a $100 million business](http://christophjanz.blogspot.com/2014/10/five-ways-to-build-100-million-business.html), The Angel VC
+- [Growth Handbook: How startups run B2B sales](https://www.julian.com/guide/growth/b2b-sales)
+- 🎞 [Enterprise Sales Basics](https://www.ycombinator.com/library/9y-enterprise-sales-basics), Y Combinator
+- 🎞 [B2B Sales Q&A: B2B, B2B Sales](https://www.ycombinator.com/library/9o-b2b-sales-q-a), Y Combinator
+- [Why Big Deals Are Bad for Startups](https://www.ycombinator.com/library/3O-why-big-deals-are-bad-for-startups), Y Combinator
+- 🎞 [Enterprise Sales Basics](https://www.ycombinator.com/library/9y-enterprise-sales-basics), Y Combinator
+- [How to sell a B2B product](https://calv.info/how-to-sell-b2b)
+
+Check out those list of resources:
+
+- [First Round Sales blog articles](https://review.firstround.com/articles/sales)
 
 ### Scaling the team (org & management)
 
