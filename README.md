@@ -262,6 +262,11 @@ Theodore Roosevelt
 - [Pricing model at GitLab](https://about.gitlab.com/company/pricing/)
 - 🎞 [Startup Pricing 101: Growth, Marketing, Monetization](https://www.ycombinator.com/library/6h-startup-pricing-101), Y Combinator
 - [It’s Price Before Product. Period.](https://review.firstround.com/its-price-before-product-period)
+  - Have the Willingness-to-Pay talk early.
+  - Curb your instincts to please customers by giving away too much value unless people will pay for it.
+  - Slapping on a price just before going to market is a recipe for failure.
+  - Investigate how you charge as much as what you charge
+  - Don’t try to serve every segment
 - [Nine Rules from Monetizing Innovation](https://www.skmurphy.com/blog/2016/11/16/nine-rules-from-monetizing-innovation/)
 - [Pricing Your Product](https://articles.sequoiacap.com/pricing-your-product), Sequoia
 
