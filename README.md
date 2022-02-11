@@ -13,6 +13,7 @@
   - [Acquisition](#acquisition)
   - [Attention to details](#attention-to-details)
   - [Attitude](#attitude)
+  - [B2B](#b2b)
   - [CEO](#ceo)
   - [Communication](#communication)
   - [Competition](#competition)
@@ -112,6 +113,16 @@ Jack Dorsey, Twitter co-founder
 ### Attitude
 
 - [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
+
+### B2B
+
+- [The “One Big Customer” Trap](https://www.startuppatterns.com/blog/the-one-big-customer-trap)
+  - Don’t target large customers first
+  - Avoid scope of work (SoW)
+  - Don’t be “open for business” until you have multiple customers
+  - Spread revenue across customers
+  - Don’t eat your seed corn
+- [How to test a B2B startup idea](https://acroll.medium.com/how-to-test-a-b2b-startup-idea-abdad48d9ed8)
 
 ### CEO
 
