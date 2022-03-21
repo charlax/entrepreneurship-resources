@@ -18,7 +18,9 @@
   - [Communication](#communication)
   - [Competition](#competition)
   - [Data (analytics)](#data-analytics)
+  - [Decision-making](#decision-making)
   - [Design](#design)
+  - [Culture](#culture)
   - [Ethics](#ethics)
   - [Finding an idea](#finding-an-idea)
   - [Funding](#funding)
@@ -40,7 +42,9 @@
   - [Prototyping](#prototyping)
   - [Rituals](#rituals)
   - [Sales](#sales)
+  - [Scaling the business](#scaling-the-business)
   - [Scaling the team (org & management)](#scaling-the-team-org--management)
+  - [Slack & comms](#slack--comms)
   - [Security](#security)
   - [Stories of startups](#stories-of-startups)
   - [Strategy](#strategy)
@@ -129,6 +133,11 @@ Jack Dorsey, Twitter co-founder
 - [The role of the CEO](https://blog.usejournal.com/the-role-of-the-ceo-3d370c2e7469)
 - YCombinator, [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
 - [Mindsets and practices of the best CEOs](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-mindsets-and-practices-of-excellent-ceos), McKinsey
+- [An Exact Breakdown of How One CEO Spent His First Two Years of Company-Building](https://review.firstround.com/an-exact-breakdown-of-how-one-ceo-spent-his-first-two-years-of-company-building)
+  - Unblocking others is your top priority
+  - Ditch your to-do list
+  - Don’t let recency determine priority
+  - The only way to learn who your customers are and deeply understand what problems you can solve for them is to hear their stories first-hand.
 
 ### Communication
 
@@ -143,6 +152,11 @@ Henry Ford
 ### Data (analytics)
 
 - [Analytics Academy](https://segment.com/academy/collecting-data/), Segment. Contains lots of processes and ideas about how to be data-driven.
+- [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+
+### Decision-making
+
+- [Chesterton’s Fence: A Lesson in Second Order Thinking](https://fs.blog/chestertons-fence/)
 
 ### Design
 
@@ -159,6 +173,10 @@ Henry Ford
 Tools:
 
 - [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+
+### Culture
+
+- [Inside PayPal](http://paulgraham.com/paypal.html), Vincent Chan
 
 ### Ethics
 
@@ -217,6 +235,7 @@ Check out the Sales section as well.
 - [The man who produced Steve Jobs’ keynotes for 20 years](https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years)
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
 - [How the biggest consumer apps got their first 1,000 users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
+- [The Pitch Deck](https://www.dropbox.com/s/1zyijlb16yhsiqk/Pitch%20Deck%20-%20Presentation%20made%20with%20Bunkr.pdf?dl=0)
 
 Resources:
 
@@ -292,23 +311,38 @@ Theodore Roosevelt
 
 ### Product management
 
-- [Forget the MBA. Here’s the fastest way to become a product manager](https://hackernoon.com/forget-the-mba-heres-the-fastest-way-to-become-a-product-manager-b3a230a7c055)
-- [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10) (Quora)
-- [How to Hire a Product Manager](https://www.kennorton.com/essays/productmanager.html), Ken Norton (and its [10th birthday look back](https://www.kennorton.com/essays/happy-10th-birthday-to-hthapm.html))
-- [Startups don’t need product managers who are visionaries](https://venturebeat.com/2019/02/03/startups-dont-need-product-managers-who-are-visionaries/)
-- [Pixar’s Rules of Storytelling Applied to Product Managers & UX Designers](https://medium.com/build-acl/pixars-rules-of-storytelling-applied-to-product-managers-ux-designers-420cec0a18a6)
 - [Free Resources for Product Management](https://usefyi.com/templates/product-management/)
-- [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/), Ben Horowitz.
-- [PM Starter Pack](https://pmstarterpack.onfielder.com/): how to get started in product management
 - [Don’t trust agile alone to build successful products](http://ui-patterns.com/blog/dont-trust-agile-alone-to-build-successful-products), UI patterns.
   - Too much focus on what and when to build without asking why, creates tunnel vision.
 - [Shape Up](https://basecamp.com/shapeup): free book about product management from Basecamp.
-- [A Letter To A New Product Manager](https://blog.coinbase.com/a-letter-to-a-new-product-manager-d5d96c228bf4), The Coinbase Blog
 - [Building Products](https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb)
   - A product succeeds because it solves a problem for people. This sounds very basic, but it is the single most important thing to understand about building good products.
 - [Scaling Product Delivery: The "Dirty" Secret of High Performing Product Teams](https://www.reforge.com/blog/scaling-product-delivery)
 - [My favorite product management templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
 - [Effective Product Management](https://cmcluck.medium.com/effective-product-management-8021831a184)
+- [Top 10 Reasons for Slow Velocity](https://svpg.com/top-10-reasons-for-slow-velocity/), Silicon Valley Product Group
+  - Lack of strong product owners
+  - Lack of strong project management
+  - Not including lead engineers during product discovery
+  - Lack of product vision and focus
+  - Inflexible product architecture / technical debt
+- [50 Short Product Lessons](https://cutle.fish/blog/50-product-lessons)
+- [Simple Product Management Tricks](https://jacobian.org/2021/oct/20/simple-pm-tricks/)
+  - Perform an effort/impact analysis
+  - Timebox hard-to-estimate work
+  - Write playbooks before automation
+
+Product managers:
+
+- [A Letter To A New Product Manager](https://blog.coinbase.com/a-letter-to-a-new-product-manager-d5d96c228bf4), The Coinbase Blog
+- [Forget the MBA. Here’s the fastest way to become a product manager](https://hackernoon.com/forget-the-mba-heres-the-fastest-way-to-become-a-product-manager-b3a230a7c055)
+- [What distinguishes the Top 1% of product managers from the Top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10) (Quora)
+- [How to Hire a Product Manager](https://www.kennorton.com/essays/productmanager.html), Ken Norton (and its [10th birthday look back](https://www.kennorton.com/essays/happy-10th-birthday-to-hthapm.html))
+- [Startups don’t need product managers who are visionaries](https://venturebeat.com/2019/02/03/startups-dont-need-product-managers-who-are-visionaries/)
+- [Pixar’s Rules of Storytelling Applied to Product Managers & UX Designers](https://medium.com/build-acl/pixars-rules-of-storytelling-applied-to-product-managers-ux-designers-420cec0a18a6)
+- [Decoding Product Management — A skill matrix to grow, coach, assess, and hire world-class PMs](https://medium.com/@markusmuller89/decoding-product-management-a-skill-matrix-to-grow-coach-assess-and-hire-world-class-pms-a385a4476866)
+- [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/), Ben Horowitz.
+- [PM Starter Pack](https://pmstarterpack.onfielder.com/): how to get started in product management
 
 ### Product-market fit
 
@@ -360,9 +394,23 @@ Check out those list of resources:
 
 - [First Round Sales blog articles](https://review.firstround.com/articles/sales)
 
+### Scaling the business
+
+- [Scaling to $100 Million](https://www.bvp.com/atlas/scaling-to-100-million)
+  - ARR is the North Star
+  - Win by Wide Margins
+  - Know Your Worth
+  - Plot Your Way to the Next Milestone
+  - Run the Public Playbook
+
 ### Scaling the team (org & management)
 
 - [When Executives Break](http://blog.eladgil.com/2021/02/when-executives-break.html)
+
+### Slack & comms
+
+- [GitLab Communication](https://about.gitlab.com/handbook/communication/#slack)
+- [Github's bot, Hubot](https://hubot.github.com/)
 
 ### Security
 
