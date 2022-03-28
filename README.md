@@ -441,6 +441,7 @@ Check out those list of resources:
 - [A New License to Future Proof the Commoditization of Data Integration](https://airbyte.io/blog/a-new-license-to-future-proof-the-commoditization-of-data-integration) lays out the rationale behind Airbyte's business model and open sourcing strategy.
   - If it helps individual contributors or small teams, then it should be free and open source; if it serves an organization’s needs, then it should be monetized.
   - They use the Elastic License v2 (ELv2) to prevent "some huge companies [from taking] the Airbyte project and start offering a clone of Airbyte Cloud".
+- [Value disciplines explained with examples](https://www.business-to-you.com/value-disciplines-customer-intimacy/): pick one of customer intimacy, operational excellence, product leadership
 
 ### Toolkits
 
