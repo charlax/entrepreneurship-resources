@@ -415,6 +415,7 @@ Check out those list of resources:
 ### Security
 
 - [The SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist)
+- [Early Security for Startups](https://devd.me/log/posts/startup-security/)
 
 ### Stories of startups
 
