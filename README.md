@@ -22,6 +22,7 @@
   - [Design](#design)
   - [Culture](#culture)
   - [Ethics](#ethics)
+  - [Financing](#financing)
   - [Finding an idea](#finding-an-idea)
   - [Funding](#funding)
   - [Growth](#growth)
@@ -183,6 +184,10 @@ Tools:
 > Being good is an adventure far more violent and daring than sailing round the world
 
 G. K. Chesterton
+
+### Financing
+
+- [The 40% Rule](https://avc.com/2015/02/the-40-rule/), AVC: "your annual revenue growth rate + your operating margin should equal 40%"
 
 ### Finding an idea
 
