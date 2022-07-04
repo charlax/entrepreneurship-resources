@@ -143,6 +143,7 @@ Jack Dorsey, Twitter co-founder
 ### Communication
 
 - [Operations and Internal Communication Strategies For Effective CEOs](https://pulseasync.com/operators/operations-and-internal-communication-strategies-for-effective-ceos/?)
+- [The weekly CEO e-mail](https://medium.com/@gokulrajaram/the-weekly-ceo-e-mail-b5eaafcee6fa)
 
 ### Competition
 
@@ -212,7 +213,8 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 
 ### Growth
 
-- [UX Case Studies](https://growth.design/case-studies/?ref=producthunt): a list of growth and UI case studies. The comics format is very engaging.
+- [UX Case Studies](https://growth.design/case-studies/): a list of growth and UI case studies. The comics format is very engaging.
+- [Ask HN: Where and how do you find your early adopters?](https://news.ycombinator.com/item?id=31930935)
 
 ### Hiring
 
