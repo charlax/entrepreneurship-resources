@@ -202,8 +202,12 @@ G. K. Chesterton
   - Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible. \* Many people mistakenly believe that creativity is something that only some of us are born with, and either we have it or we don’t. Fortunately, there seems to be ample evidence that this isn’t true.
 
 > As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.
+>
+> — Harrington Emerson
 
-— Harrington Emerson
+> You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
+>
+> – Steve Jobs
 
 ### Funding
 
@@ -230,8 +234,8 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 ### Learning
 
 > It is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, i.e., the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to.
-
-Elon Musk
+>
+> – Elon Musk
 
 ### Marketing
 
