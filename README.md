@@ -269,6 +269,7 @@ Resources:
 - A Smart Bear, [I hate MVPs. So do your customers. Make it SLC instead.](https://blog.asmartbear.com/slc.html)
   - MVPs are too M and almost never V.
   - An experiment should be Simple, Lovable and Complete.
+- ["Sony was founded in 1946. Its first product was an electric rice cooker. Here are some early products from 11 other well known companies."](https://twitter.com/JonErlichman/status/1563911769793478657)
 
 > The lesson of the MVP is that any additional work beyond what was required to start learning is waste, no matter how important it might have seemed at the time.
 
