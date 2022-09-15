@@ -22,7 +22,9 @@
   - [Design](#design)
   - [Culture](#culture)
   - [Ethics](#ethics)
+  - [Execution](#execution)
   - [Financing](#financing)
+  - [Founders](#founders)
   - [Finding an idea](#finding-an-idea)
   - [Funding](#funding)
   - [Growth](#growth)
@@ -30,6 +32,7 @@
   - [IP (Intellectual Property) and patents](#ip-intellectual-property-and-patents)
   - [Learning](#learning)
   - [Marketing](#marketing)
+  - [Mental models](#mental-models)
   - [Meta: advice about advice](#meta-advice-about-advice)
   - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
   - [Mindset](#mindset)
@@ -131,6 +134,8 @@ Jack Dorsey, Twitter co-founder
 
 ### CEO
 
+See also the section about founders
+
 - [The role of the CEO](https://blog.usejournal.com/the-role-of-the-ceo-3d370c2e7469)
 - YCombinator, [What’s the Second Job of a Startup CEO?](https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/)
 - [Mindsets and practices of the best CEOs](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-mindsets-and-practices-of-excellent-ceos), McKinsey
@@ -186,9 +191,40 @@ Tools:
 
 G. K. Chesterton
 
+### Execution
+
+- [Building Faster](https://ellenchisa.substack.com/p/building-faster)
+  - Force Clear Priorities
+  - Focus on what will and won't change
+  - Don't think too far ahead
+  - Try Order of Magnitude Timeboxing
+  - Debug The Never-ending Tasks
+  - Clear Goals for Code Review
+  - Notice when you're talking past each other
+  - Pick the right tools
+
 ### Financing
 
 - [The 40% Rule](https://avc.com/2015/02/the-40-rule/), AVC: "your annual revenue growth rate + your operating margin should equal 40%"
+
+### Founders
+
+See also the section about CEO
+
+- [What We Look for in Founders](http://www.paulgraham.com/founders.html), Paul Graham
+  - Determination
+  - Flexibility
+  - Imagination
+  - Naughtiness
+  - Friendship
+- [What we learned in studying the most effective founders](https://blog.google/outreach-initiatives/entrepreneurs/effective-founders-project/), Google
+  - Treat people like volunteers
+  - Protect the team from distractions
+  - Minimize unnecessary micromanagement
+  - Invite disagreement
+  - Preserve interpersonal equity
+  - Keep pace with expertise
+  - Overcome discouragement
 
 ### Finding an idea
 
@@ -200,13 +236,12 @@ G. K. Chesterton
   - A common way that people limit what’s possible is to tell themselves that all the good ideas are taken. Yet, people have been saying this for hundreds of years — literally — and companies keep starting and competing with different ideas, variations, and strategies.
   - The iPhone wasn’t first, it was better. Microsoft wasn’t the first to sell operating systems; it just had a better business model.
   - Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible. \* Many people mistakenly believe that creativity is something that only some of us are born with, and either we have it or we don’t. Fortunately, there seems to be ample evidence that this isn’t true.
+- [Don’t think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
 
 > As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.
->
 > — Harrington Emerson
 
 > You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
->
 > – Steve Jobs
 
 ### Funding
@@ -252,6 +287,10 @@ Resources:
 
 - [Free Resources for Marketing](https://usefyi.com/templates/marketing-templates/)
 - [Email screenshots from top brands to inspire you when you're stuck](https://pageflows.com/emails/)
+
+### Mental models
+
+- [Second-Order Thinking: What Smart People Use to Outperform](https://fs.blog/second-order-thinking/)
 
 ### Meta: advice about advice
 
@@ -314,8 +353,11 @@ Theodore Roosevelt
 
 ### Prioritization
 
+See also the [Prioritization section on my engineering-management list](https://github.com/charlax/engineering-management/#prioritization)
+
 - [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 - [My Billion Dollar Mistake](https://producthabits.com/my-billion-dollar-mistake/): why having a prioritisation process is key to keeping your edge.
+- [Prioritization as a Superpower](https://nbt.substack.com/p/prioritization-as-a-superpower)
 
 ### Processes
 
@@ -343,6 +385,12 @@ Theodore Roosevelt
   - Perform an effort/impact analysis
   - Timebox hard-to-estimate work
   - Write playbooks before automation
+- [Product-Driven versus Customer-Driven](https://www.ribbonfarm.com/2014/04/24/product-driven-versus-customer-driven/)
+- [How to develop product sense](https://www.lennysnewsletter.com/p/product-sense)
+  - Observe people interacting with products
+  - Deconstruct everyday products
+  - Learn from great product thinkers
+  - Be curious about changes in technology and your domain
 
 Product managers:
 
@@ -355,6 +403,9 @@ Product managers:
 - [Decoding Product Management — A skill matrix to grow, coach, assess, and hire world-class PMs](https://medium.com/@markusmuller89/decoding-product-management-a-skill-matrix-to-grow-coach-assess-and-hire-world-class-pms-a385a4476866)
 - [Good Product Manager/Bad Product Manager](https://a16z.com/2012/06/15/good-product-managerbad-product-manager/), Ben Horowitz.
 - [PM Starter Pack](https://pmstarterpack.onfielder.com/): how to get started in product management
+- [A pause to revisit: What’s the Product Manager’s role?](https://medium.com/paper-planes/a-pause-to-revisit-whats-the-product-manager-s-role-7dbc6c37b902)
+  - The Product Manager’s ultimate responsibility is to create a solution that is valuable, viable, feasible, and usable.
+  - The Product Manager’s role is to understand customer problems very well, rally the team to build the winning product, and then iterate until it gets it right.
 
 ### Product-market fit
 
@@ -448,6 +499,8 @@ Check out those list of resources:
   - Take care of yourself first
   - Knowing when to let go
 - [Lessons for early stage founders by Calvin French-Owen](https://calv.info/early-stage-lessons)
+- [Stripe: Thinking Like a Civilization](https://www.readthegeneralist.com/briefing/stripe)
+- [The Airbnbs](https://www.ycombinator.com/blog/the-airbnbs/): a great story about perseverance.
 
 ### Strategy
 

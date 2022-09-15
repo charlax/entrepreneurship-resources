@@ -12,5 +12,6 @@ module.exports = {
     "no-trailing-punctuation": false,
     "no-inline-html": false,
     "no-duplicate-heading": false,
+    "no-blanks-blockquote": false,
   },
 };
