@@ -207,6 +207,12 @@ G. K. Chesterton
 
 - [The 40% Rule](https://avc.com/2015/02/the-40-rule/), AVC: "your annual revenue growth rate + your operating margin should equal 40%"
 
+### Focus
+
+- [Why Evernote Failed to Realize Its Potential](https://nira.com/evernote-history/)
+  - In 2011, Evernote started dispersing itself with irrelevant products (e.g., Evernote Food, Moleskine partnership).
+  - In contrast, the main app was plagued with bugs.
+
 ### Founders
 
 See also the section about CEO
