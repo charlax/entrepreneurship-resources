@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-  - [My other lists](#my-other-lists)
 - [Generic resources](#generic-resources)
   - [Books and playbooks](#books-and-playbooks)
   - [Articles](#articles)
@@ -24,6 +23,7 @@
   - [Ethics](#ethics)
   - [Execution](#execution)
   - [Financing](#financing)
+  - [Focus](#focus)
   - [Founders](#founders)
   - [Finding an idea](#finding-an-idea)
   - [Funding](#funding)
@@ -59,6 +59,7 @@
   - [Wireframing](#wireframing)
   - [Writing](#writing)
 - [Other lists](#other-lists)
+- [My other lists](#my-other-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -73,14 +74,6 @@ Items:
 - 🎞 : video/movie extract/movie/talk
 - 🏙 : slides/presentation
 - ⭐️ : must-read
-
-### My other lists
-
-Feel free to checkout my other lists:
-
-- [Professional programming](https://github.com/charlax/professional-programming)
-- [Python education](https://github.com/charlax/python-education)
-- [Engineering management](https://github.com/charlax/engineering-management)
 
 ## Generic resources
 
@@ -561,3 +554,10 @@ Resources:
 ## Other lists
 
 - [Road to Scale](https://roadtoscale.com/): a curated knowledge library for every stage of your startup journey.
+
+## My other lists
+
+- [engineering-management](https://github.com/charlax/engineering-management/)
+- [entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources)
+- [professional-programming](https://github.com/charlax/professional-programming)
+- [python-education](https://github.com/charlax/python-education)
