@@ -253,6 +253,7 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 
 - [UX Case Studies](https://growth.design/case-studies/): a list of growth and UI case studies. The comics format is very engaging.
 - [Ask HN: Where and how do you find your early adopters?](https://news.ycombinator.com/item?id=31930935)
+- [10 lessons on using the flywheel effect to grow your business](https://www.atlassian.com/blog/strategy/flywheel-effect-10-lessons)
 
 ### Hiring
 
@@ -296,6 +297,8 @@ Resources:
 - [Most startup theory is ex-post, therefore bs](https://shafyy.com/post/startup-theory-ex-post/)
   - Do you think Musk copied that strategy from the business school he never went to? Do you think Brian Chesky of Airbnb heard that strategy from a friend?
   - The most satisfying thing about being an entrepreneur is that you can do what you think makes sense. That doesn’t mean don’t get advice. But get advice from people who know you, who you know, and most importantly, learn how to apply that advice.
+
+> @awilkinson: "Here's the number I used to win the lottery" – Entrepreneurs giving advice
 
 ### Minimum Viable Product (MVP)
 
@@ -500,6 +503,10 @@ Check out those list of resources:
 - [Lessons for early stage founders by Calvin French-Owen](https://calv.info/early-stage-lessons)
 - [Stripe: Thinking Like a Civilization](https://www.readthegeneralist.com/briefing/stripe)
 - [The Airbnbs](https://www.ycombinator.com/blog/the-airbnbs/): a great story about perseverance.
+- [I just shut down my first startup. Here’s my retro](https://medium.com/@lilliancartwright/i-just-shut-down-my-first-startup-heres-my-retro-7a8a529b4ee4)
+  - Start by getting obsessed with the problem space, not the end vision
+  - Start asking customers to pay something, anything, upfront
+  - Stop trying to convince investors to have conviction
 
 ### Strategy
 
