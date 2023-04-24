@@ -145,6 +145,8 @@ See also the section about founders
 
 ### Competition
 
+- [The Real Competition is the Water](https://www.rkg.blog/water.php)
+
 > The competitor to be feared is one who never bothers about you at all, but goes on making his own business better all the time.
 
 Henry Ford
