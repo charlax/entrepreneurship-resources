@@ -171,6 +171,7 @@ Henry Ford
   - Get familiar with design patterns
   - Train your eye for good design \* Learn by copying top designers
 - [Nodesign.dev](https://nodesign.dev/): a collection of tools for developers who have little to no artistic talent
+- [Product design & UX design resources](https://www.degreeless.design/)
 
 Tools:
 
@@ -226,6 +227,7 @@ See also the section about CEO
   - Preserve interpersonal equity
   - Keep pace with expertise
   - Overcome discouragement
+- [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill), Chris Dixon
 
 ### Finding an idea
 
@@ -418,6 +420,17 @@ Product managers:
 - [🎞 How to Find Product Market Fit](https://www.youtube.com/watch?v=_6pl5GG8RQ4), Peter Reinhardt, co-founder and CEO of Segment.
 - [The First 100 Course](https://docs.google.com/document/d/104qgagSsp2rQQEDORGbYC0uqt0neYHCPxu-aUl4CuSQ/edit): a very complete handbook about getting to 100 customers.
 - [I'm Walking Away From the Product I Spent a Year Building](https://www.derrickreimer.com/essays/2019/05/17/im-walking-away-from-the-product-i-spent-a-year-building.html): failing to find a product-marking fit.
+- [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/), Jason Cohen, A Smart Bear. Offers a scoring method to validate a problem:
+  - Plausible: Do 10M people or 100k companies have the problem?
+  - Self-Aware: Do they know & care they have the problem?
+  - Lucrative: Do they have substantial budget to solve this problem?
+  - Liquid: Are they willing and able to buy right now?
+  - Eager: Do they want to buy from you, specifically?
+  - Enduring: Will they still be paying (or paying-it-forward) a year from now?
+
+> If a person does not already believe they have a problem, they will not be surfing the Internet looking for a solution, and even if they happen upon your website somehow, you cannot get them to spend money to solve a problem they don't think they have.
+>
+> – Jason Cohen
 
 ### Prototyping
 
