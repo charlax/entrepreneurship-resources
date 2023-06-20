@@ -98,6 +98,10 @@ Items:
   - Good money vs. bad donations
   - Do you really want to be mentored? Incubated!?
   - Is a startup really what you want right now?
+- [Product lessons from Dan Robinson (ex-CTO of Heap)](https://johnjianwang.medium.com/product-lessons-from-dan-robinson-ex-cto-of-heap-329a00cd6248)
+  - You need to determine whether the pizza is burnt (e.g. did you execute poorly) or if the pizza was a bad idea.
+  - You should only do two things at your startup: “write code [and] talk to users.”
+  - The best way to build a useless product for months is by letting your excitement influence the conversations you have with users.
 
 ## Topics
 
