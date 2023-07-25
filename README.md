@@ -15,6 +15,7 @@
   - [B2B](#b2b)
   - [CEO](#ceo)
   - [Communication](#communication)
+  - [Compensation](#compensation)
   - [Competition](#competition)
   - [Data (analytics)](#data-analytics)
   - [Decision-making](#decision-making)
@@ -22,6 +23,7 @@
   - [Culture](#culture)
   - [Ethics](#ethics)
   - [Execution](#execution)
+  - [Experimentation](#experimentation)
   - [Financing](#financing)
   - [Focus](#focus)
   - [Founders](#founders)
@@ -29,15 +31,18 @@
   - [Funding](#funding)
   - [Growth](#growth)
   - [Hiring](#hiring)
+  - [Investor relations](#investor-relations)
   - [IP (Intellectual Property) and patents](#ip-intellectual-property-and-patents)
   - [Learning](#learning)
   - [Marketing](#marketing)
   - [Mental models](#mental-models)
   - [Meta: advice about advice](#meta-advice-about-advice)
+  - [Metrics](#metrics)
   - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
   - [Mindset](#mindset)
   - [Pitch decks](#pitch-decks)
   - [Pivoting](#pivoting)
+  - [Predicting the future](#predicting-the-future)
   - [Pricing](#pricing)
   - [Prioritization](#prioritization)
   - [Processes](#processes)
@@ -52,6 +57,7 @@
   - [Security](#security)
   - [Stories of startups](#stories-of-startups)
   - [Strategy](#strategy)
+  - [Teams](#teams)
   - [Toolkits](#toolkits)
   - [UX](#ux)
     - [UX Design](#ux-design)
@@ -118,6 +124,7 @@ Jack Dorsey, Twitter co-founder
 ### Attitude
 
 - [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
+- [How to Do Great Work](http://paulgraham.com/greatwork.html), Paul Graham
 
 ### B2B
 
@@ -146,6 +153,10 @@ See also the section about founders
 
 - [Operations and Internal Communication Strategies For Effective CEOs](https://pulseasync.com/operators/operations-and-internal-communication-strategies-for-effective-ceos/?)
 - [The weekly CEO e-mail](https://medium.com/@gokulrajaram/the-weekly-ceo-e-mail-b5eaafcee6fa)
+
+### Compensation
+
+- [Executive Compensation](https://a16z.com/2023/06/14/executive-compensation/),  Andreessen Horowitz
 
 ### Competition
 
@@ -176,10 +187,17 @@ Henry Ford
   - Train your eye for good design \* Learn by copying top designers
 - [Nodesign.dev](https://nodesign.dev/): a collection of tools for developers who have little to no artistic talent
 - [Product design & UX design resources](https://www.degreeless.design/)
+- [The Self-taught UI/UX Designer Roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 
-Tools:
+Tools and resources:
 
 - [LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+- [Interface In Game](https://interfaceingame.com/): a collection of video games UI, very useful for inspiration
+
+Patterns:
+
+- [Never Use a Warning When you Mean Undo](https://alistapart.com/article/neveruseawarning/), A List Apart
+- [16 little UI design rules that make a big impact](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules?ck_subscriber_id=934271312)
 
 ### Culture
 
@@ -202,6 +220,12 @@ G. K. Chesterton
   - Clear Goals for Code Review
   - Notice when you're talking past each other
   - Pick the right tools
+
+### Experimentation
+
+- [Experiments at Airbnb](https://medium.com/airbnb-engineering/experiments-at-airbnb-e2db3abf39e7): a classic article about A/B testing
+  - The outside world often has a much larger effect on metrics than product changes do.
+  - How long do you need to run an experiment?
 
 ### Financing
 
@@ -244,6 +268,7 @@ See also the section about CEO
   - The iPhone wasn’t first, it was better. Microsoft wasn’t the first to sell operating systems; it just had a better business model.
   - Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible. \* Many people mistakenly believe that creativity is something that only some of us are born with, and either we have it or we don’t. Fortunately, there seems to be ample evidence that this isn’t true.
 - [Don’t think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
+- [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done), HBR, Clayton M. Christensen
 
 > As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.
 > — Harrington Emerson
@@ -252,6 +277,8 @@ See also the section about CEO
 > – Steve Jobs
 
 ### Funding
+
+- [Don’t Take VC Funding - It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
 
 > Money is like gasoline on a road trip. You don't want to run out of gas on your trip, but you’re not doing a tour of gas stations.
 
@@ -268,6 +295,10 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 Checkout the hiring section on my [charlax/engineering-management](https://github.com/charlax/engineering-management/).
 
 - [Good Job Descriptions](https://www.goodjobdescription.com/): good job descriptions from the most loved companies
+
+### Investor relations
+
+- [What I Learned Reading 1,000 Investor Reports](https://collabfund.com/blog/i-read-1-000-investor-reports-last-year-heres-what-i-learned/) provides a simple & effective investor report.
 
 ### IP (Intellectual Property) and patents
 
@@ -290,6 +321,7 @@ Check out the Sales section as well.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers)
 - [How the biggest consumer apps got their first 1,000 users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
 - [The Pitch Deck](https://www.dropbox.com/s/1zyijlb16yhsiqk/Pitch%20Deck%20-%20Presentation%20made%20with%20Bunkr.pdf?dl=0)
+- [Avatar Marketing: Sell to Carol](https://blog.asmartbear.com/avatar-marketing-sell-to-carol.html), Jason Cohen
 
 Resources:
 
@@ -307,6 +339,13 @@ Resources:
   - The most satisfying thing about being an entrepreneur is that you can do what you think makes sense. That doesn’t mean don’t get advice. But get advice from people who know you, who you know, and most importantly, learn how to apply that advice.
 
 > @awilkinson: "Here's the number I used to win the lottery" – Entrepreneurs giving advice
+
+### Metrics
+
+- [Success & Velocity](https://breakingpoint.substack.com/p/success-and-velocity)
+  - You need two kinds of metrics in your business: success and velocity.
+  - Success metrics tell you whether you hit your goals
+  - Velocity metrics tell you how likely you are to hit future goals
 
 ### Minimum Viable Product (MVP)
 
@@ -350,6 +389,16 @@ Theodore Roosevelt
 
 - [Knowing When to Pivot](https://ecorner.stanford.edu/in-brief/knowing-when-to-pivot/), Stanford eCorner
 
+### Predicting the future
+
+- [Navigating the unpredictability of everything](https://longform.asmartbear.com/predict-the-future/), Jason Cohen
+  - A strategy is required, even when it’s wrong
+  - The customer (behavior) is always (directionally) right
+  - Build a moat
+  - Have more than one way to succeed
+  - Bet on what will not change
+  - Decide quickly → get customer reactions quickly → learn quickly → make new decisions quickly.
+
 ### Pricing
 
 - [Pricing model at GitLab](https://about.gitlab.com/company/pricing/)
@@ -362,6 +411,7 @@ Theodore Roosevelt
   - Don’t try to serve every segment
 - [Nine Rules from Monetizing Innovation](https://www.skmurphy.com/blog/2016/11/16/nine-rules-from-monetizing-innovation/)
 - [Pricing Your Product](https://articles.sequoiacap.com/pricing-your-product), Sequoia
+- [Pricing determines your business model](https://longform.asmartbear.com/pricing-determines-your-business-model/), Jason Cohen
 
 ### Prioritization
 
@@ -403,6 +453,7 @@ See also the [Prioritization section on my engineering-management list](https://
   - Deconstruct everyday products
   - Learn from great product thinkers
   - Be curious about changes in technology and your domain
+- [Product development guiding principle: Use quality to generate speed](https://jchyip.medium.com/guiding-principle-speed-generates-quality-f0672db3e4bc)
 
 Product managers:
 
@@ -535,6 +586,30 @@ Check out those list of resources:
   - If it helps individual contributors or small teams, then it should be free and open source; if it serves an organization’s needs, then it should be monetized.
   - They use the Elastic License v2 (ELv2) to prevent "some huge companies [from taking] the Airbyte project and start offering a clone of Airbyte Cloud".
 - [Value disciplines explained with examples](https://www.business-to-you.com/value-disciplines-customer-intimacy/): pick one of customer intimacy, operational excellence, product leadership
+- [Kung Fu](https://blog.asmartbear.com/kung-fu.html), Jason Cohen
+  - I don’t like freemium; I want to learn from people who care enough to pay, not from the 20x more who don’t.
+  - “MVPs” are too M to be V. They’re a selfish ploy, tricking people who thought they were customers into being alpha testers
+  - A startup has to be so excellent at one or two key things, that they can screw up everything else up and not die.
+  - If you have more than three priorities, you have none.
+  - Your values are tested only when the decisions are tough
+  - Pricing determines everything else
+  - Price so that 100-200 [clients] is enough for all the founders to work full-time.
+  - Early on, your job is to validate that there’s a business, not to validate that your idea is good or that a pain exists
+  - People don’t value their time. They will do crazy things to save $2
+  - If you can’t double your prices, you’re in a weak market position
+  - A good strategy is to be the System of Record for something
+  - It’s more powerful to be 10x better at one thing, then to shore up ten weaknesses.
+  - Design is important, yet many of the $1B+ SaaS public companies have poor design. So, other things are more important.
+  - The only cause of Writer’s Block is high standards. Type garbage. Editing is 10x easier than writing.
+  - “Everyone thinks of changing the world. No one thinks of changing themselves.”  —Leo Tolstoy.
+- [The three kinds of leverage that anchor effective strategies](https://longform.asmartbear.com/leverage/), Jason Cohen
+  - Reversing weakness is hard, painful, likely to result in something merely neutral, not great, and is at high risk of failing completely
+  - Leveraging differentiated strengths
+  - Leveraging durable differentiated strengths
+
+### Teams
+
+- [Small teams](https://stevepulec.com/posts/small/): a list of small teams that achieves large things
 
 ### Toolkits
 
@@ -573,19 +648,24 @@ Resources:
 - [🎞 Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w)
 - [🎞 Wireframing for Newbies](https://www.youtube.com/watch?v=KnZrypOaVCg) (with Balsamiq)
 - [Wireframes are becoming less relevant — and that’s a good thing](https://medium.com/@seandexter1/wireframes-are-becoming-less-relevant-and-thats-a-good-thing-e66b30724a27)
-- [Validate product design ideas with wireframes](https://www.simonmccade.com/blog/validate-product-design-ideas-with-wireframes?ref=uxdesignweekly) \* Low-fidelity wireframes can confirm the validity of your product ideas
+- [Validate product design ideas with wireframes](https://www.simonmccade.com/blog/validate-product-design-ideas-with-wireframes)
+  - Low-fidelity wireframes can confirm the validity of your product ideas
+- [Give it the Craigslist test Erica Heinz](https://ericaheinz.com/notes/give-it-the-craigslist-test/#.ZFhqSOzMI0Q)
 
 ### Writing
+
+See also my other lists.
 
 - [How Jeff Bezos Turned Narrative into Amazon's Competitive Advantage](https://slab.com/blog/jeff-bezos-writing-management-strategy/)
 
 ## Other lists
 
 - [Road to Scale](https://roadtoscale.com/): a curated knowledge library for every stage of your startup journey.
+- [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/edit#)
 
 ## My other lists
 
 - [engineering-management](https://github.com/charlax/engineering-management/)
-- [entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources)
+- [entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources) (this one)
 - [professional-programming](https://github.com/charlax/professional-programming)
 - [python-education](https://github.com/charlax/python-education)
