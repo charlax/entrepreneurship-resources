@@ -346,6 +346,15 @@ Resources:
   - You need two kinds of metrics in your business: success and velocity.
   - Success metrics tell you whether you hit your goals
   - Velocity metrics tell you how likely you are to hit future goals
+- [Selecting the right product metrics](https://longform.asmartbear.com/product-metrics/), Jason Cohen
+  - See example framework here: https://longform.asmartbear.com/product-metrics/007e7325.svg
+  - A product sits in the middle of a chain of events. Start by plotting those events in time, by actor, and the so-called "value" we might measure
+  - Distinguish between metrics you are satisficing ("guardrails", e.g., cost, uptime, MTTR, etc.) vs. maximizing (e.g., NPS, usage, DAU/WAU, features)
+  - It can be a good idea to work on satisficing KPIs only when it slips in violation territory (e.g., outside of SLA error budget).
+  - Putting metrics in context solves the debate between metrics that the team can impact immediately, and the one business stakeholders care about. Revenue remains (usually) the most important metric, but it's clearer that it can *lag* by a few weeks or months (Blackberry's revenue continued increased for two years after the iPhone launched).
+  - A team must honestly and clearly measure *both* direct results *and* lagging outcomes. Not yet achieving the outcome is not a complete failure (luck is always involved), but a learning that will shape future work.
+  - The diagram makes clear that there should be a balance between customer-visible work (creating value through new features) and invisible ones (tech debt, reliability, security).
+  - If the customer’s business doesn’t thrive, they’ll stop paying for your software, no matter how good the software is. While of course the customer’s business is again a multi-factor, lagging metric, where nearly all the factors are outside of your control, it’s still ultimately the greatest form of value. Even if you can’t control it, you can notice the attributes of customers who tend to thrive, and direct your marketing, sales, and features towards that subset of the market, yielding higher growth and retention, and likely higher profitability.
 
 ### Minimum Viable Product (MVP)
 
