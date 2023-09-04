@@ -304,6 +304,8 @@ Checkout the hiring section on my [charlax/engineering-management](https://githu
 
 - [How to Change the World: Defensibility](https://guykawasaki.com/how_to_change_t/), Guy Kawasaki
 - [Counterpoint: Patents and Defensibility](https://guykawasaki.com/counterpoint_pa/), Guy Kawasaki
+- [USPTO Patent Basics](https://www.uspto.gov/patents/basics), United States Patent and Trademark Office
+- [USPTO Patent Searcher](https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html), United States Patent and Trademark Office
 
 ### Learning
 
