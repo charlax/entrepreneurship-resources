@@ -322,6 +322,7 @@ Check out the Sales section as well.
 - [How the biggest consumer apps got their first 1,000 users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
 - [The Pitch Deck](https://www.dropbox.com/s/1zyijlb16yhsiqk/Pitch%20Deck%20-%20Presentation%20made%20with%20Bunkr.pdf?dl=0)
 - [Avatar Marketing: Sell to Carol](https://blog.asmartbear.com/avatar-marketing-sell-to-carol.html), Jason Cohen
+- [The mid-market briar patch](https://blog.asmartbear.com/selling-mid-market.html) (Peter Thiel calls it the "black hole")
 
 Resources:
 
