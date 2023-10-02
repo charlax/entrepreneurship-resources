@@ -589,6 +589,7 @@ Check out those list of resources:
   - Start by getting obsessed with the problem space, not the end vision
   - Start asking customers to pay something, anything, upfront
   - Stop trying to convince investors to have conviction
+- [We built the fastest CI in the world. It failed. Here’s what we learned](https://earthly.dev/blog/shutting-down-earthly-ci/)
 
 ### Strategy
 
