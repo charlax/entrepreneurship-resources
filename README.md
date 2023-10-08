@@ -236,6 +236,9 @@ G. K. Chesterton
 - [Why Evernote Failed to Realize Its Potential](https://nira.com/evernote-history/)
   - In 2011, Evernote started dispersing itself with irrelevant products (e.g., Evernote Food, Moleskine partnership).
   - In contrast, the main app was plagued with bugs.
+- [Before Growth](https://blog.samaltman.com/before-growth)
+  - I think the right initial metric is “do any users love our product so much they spontaneously tell other people to use it?”
+  - Until that’s a “yes”, founders are generally better off focusing on this instead of a growth target.
 
 ### Founders
 
