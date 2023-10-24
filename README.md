@@ -359,6 +359,9 @@ Resources:
   - A team must honestly and clearly measure *both* direct results *and* lagging outcomes. Not yet achieving the outcome is not a complete failure (luck is always involved), but a learning that will shape future work.
   - The diagram makes clear that there should be a balance between customer-visible work (creating value through new features) and invisible ones (tech debt, reliability, security).
   - If the customer’s business doesn’t thrive, they’ll stop paying for your software, no matter how good the software is. While of course the customer’s business is again a multi-factor, lagging metric, where nearly all the factors are outside of your control, it’s still ultimately the greatest form of value. Even if you can’t control it, you can notice the attributes of customers who tend to thrive, and direct your marketing, sales, and features towards that subset of the market, yielding higher growth and retention, and likely higher profitability.
+- [Do You Have Lightning In a Bottle? How to Benchmark Your Social App](https://a16z.com/do-you-have-lightning-in-a-bottle-how-to-benchmark-your-social-app/)
+  - WAU, DAU, DAU/MAU ratio
+  - L-ness curve
 
 ### Minimum Viable Product (MVP)
 
@@ -593,6 +596,7 @@ Check out those list of resources:
   - Start asking customers to pay something, anything, upfront
   - Stop trying to convince investors to have conviction
 - [We built the fastest CI in the world. It failed. Here’s what we learned](https://earthly.dev/blog/shutting-down-earthly-ci/)
+- [Stocketa](https://paulstamatiou.com/stocketa/)
 
 ### Strategy
 
