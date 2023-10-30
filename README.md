@@ -188,6 +188,7 @@ Henry Ford
 - [Nodesign.dev](https://nodesign.dev/): a collection of tools for developers who have little to no artistic talent
 - [Product design & UX design resources](https://www.degreeless.design/)
 - [The Self-taught UI/UX Designer Roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
+- [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 
 Tools and resources:
 
