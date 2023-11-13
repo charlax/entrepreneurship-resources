@@ -598,6 +598,7 @@ Check out those list of resources:
   - Stop trying to convince investors to have conviction
 - [We built the fastest CI in the world. It failed. Here’s what we learned](https://earthly.dev/blog/shutting-down-earthly-ci/)
 - [Stocketa](https://paulstamatiou.com/stocketa/)
+- [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 
 ### Strategy
 
