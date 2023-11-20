@@ -46,6 +46,7 @@
   - [Pricing](#pricing)
   - [Prioritization](#prioritization)
   - [Processes](#processes)
+  - [Product Architecture](#product-architecture)
   - [Product management](#product-management)
   - [Product-market fit](#product-market-fit)
   - [Prototyping](#prototyping)
@@ -441,6 +442,12 @@ See also the [Prioritization section on my engineering-management list](https://
 ### Processes
 
 - [Startup bibles](https://slite.com/startup-bibles): curation of internal processes and resources that successful companies have publicly shared, including pitch deck.
+
+### Product Architecture
+
+- [Modularity Theory - Christensen Institute : Christensen Institute](https://www.christenseninstitute.org/interdependence-modularity/)
+  - Modularity standardizes the way by which components fit together — physically, mechanically, chemically and so on. The parts fit and work together in well-understood, crisply codified ways.
+  - Interdependency between parts requires the same organization to develop both components if it hopes to develop either component.
 
 ### Product management
 
