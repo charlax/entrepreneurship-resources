@@ -10,6 +10,7 @@
   - [Articles](#articles)
 - [Topics](#topics)
   - [Acquisition](#acquisition)
+  - [Analysis](#analysis)
   - [Attention to details](#attention-to-details)
   - [Attitude](#attitude)
   - [B2B](#b2b)
@@ -115,6 +116,10 @@ Items:
 ### Acquisition
 
 - [The red flags and magic numbers that investors look for in your startup’s metrics – 80 slide deck included!](https://andrewchen.com/investor-metrics-deck/), Andrew Chen
+
+### Analysis
+
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends): Friends don't let friends make certain types of data visualization
 
 ### Attention to details
 
@@ -222,6 +227,7 @@ G. K. Chesterton
   - Clear Goals for Code Review
   - Notice when you're talking past each other
   - Pick the right tools
+- [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 
 ### Experimentation
 
