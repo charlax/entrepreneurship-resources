@@ -18,10 +18,12 @@
   - [Communication](#communication)
   - [Compensation](#compensation)
   - [Competition](#competition)
+  - [Customer obsession](#customer-obsession)
   - [Data (analytics)](#data-analytics)
   - [Decision-making](#decision-making)
   - [Design](#design)
   - [Culture](#culture)
+  - [Entrepreneur](#entrepreneur)
   - [Ethics](#ethics)
   - [Execution](#execution)
   - [Experimentation](#experimentation)
@@ -31,6 +33,7 @@
   - [Finding an idea](#finding-an-idea)
   - [Funding](#funding)
   - [Growth](#growth)
+  - [Handbook](#handbook)
   - [Hiring](#hiring)
   - [Investor relations](#investor-relations)
   - [IP (Intellectual Property) and patents](#ip-intellectual-property-and-patents)
@@ -64,6 +67,7 @@
   - [UX](#ux)
     - [UX Design](#ux-design)
     - [UX Research](#ux-research)
+  - [Velocity](#velocity)
   - [Wireframing](#wireframing)
   - [Writing](#writing)
 - [Other lists](#other-lists)
@@ -172,6 +176,12 @@ See also the section about founders
 
 Henry Ford
 
+### Customer obsession
+
+- [Why asking your customers what they want doesn't work](https://techbooks.substack.com/p/why-asking-your-customers-what-they)
+  - “If you do not know how to ask the right question, you discover nothing.”
+  - What job did you hire that product to do?
+
 ### Data (analytics)
 
 - [Analytics Academy](https://segment.com/academy/collecting-data/), Segment. Contains lots of processes and ideas about how to be data-driven.
@@ -210,11 +220,15 @@ Patterns:
 
 - [Inside PayPal](http://paulgraham.com/paypal.html), Vincent Chan
 
+### Entrepreneur
+
+- 🎞 [Steve jobs on Thinkers And Doers](https://www.youtube.com/watch?v=WkJpEG4KbN4&ab_channel=OneinMillion)
+  - The thinkers are also usually the doers.
+
 ### Ethics
 
 > Being good is an adventure far more violent and daring than sailing round the world
-
-G. K. Chesterton
+> – G. K. Chesterton
 
 ### Execution
 
@@ -300,6 +314,10 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 - [UX Case Studies](https://growth.design/case-studies/): a list of growth and UI case studies. The comics format is very engaging.
 - [Ask HN: Where and how do you find your early adopters?](https://news.ycombinator.com/item?id=31930935)
 - [10 lessons on using the flywheel effect to grow your business](https://www.atlassian.com/blog/strategy/flywheel-effect-10-lessons)
+
+### Handbook
+
+- [Early Stage Startup Handbook](https://shamun.dev/posts/startup-handbook)
 
 ### Hiring
 
@@ -655,6 +673,18 @@ Check out those list of resources:
 See also the relevant section on my [professional-programming list](https://github.com/charlax/professional-programming#design-visual-ux-ui)
 
 - [Top 10 Application-Design Mistakes](https://www.nngroup.com/articles/top-10-application-design-mistakes/), Nielsen Norman Group
+- [Jakob Nielsen's Ten
+Usability Heuristics (PDF)](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf) and [article](https://www.nngroup.com/articles/ten-usability-heuristics/), 1994
+  - Visibility of system status
+  - Match between system and the real world
+  - User control and freedom
+  - Consistency and standards
+  - Error prevention
+  - Recognition rather than recall
+  - Flexibility and efficiency of use
+  - Aesthetic and minimalist design
+  - Help users recognize, diagnose, and recover from errors
+  - Help and documentation
 - [A comprehensive (and honest) list of UX clichés](https://uxdesign.cc/a-comprehensive-and-honest-list-of-ux-clich%C3%A9s-96e2a08fb2e9)
 - [Why Everyone Should Read Customer Support Emails](https://medium.com/s/please-advise/why-everyone-should-read-support-emails-42ca2172e23e)
 - [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
@@ -675,6 +705,18 @@ Resources:
 
 - [GV’s Guide to UX Research for Startups](https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3)
 - [12 Ways To Improve User Interview Questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/)
+
+### Velocity
+
+- [How to ship fast](https://wrap-text.equals.com/p/how-to-ship-fast)
+  - Protect momentum
+  - Beware of prioritization
+  - Stay close to the design
+  - You should be wrong sometimes
+  - Only doers can plan what you work on
+  - Always plan the How
+  - There is no quality vs. speed tradeoff
+  - Capture inspiration
 
 ### Wireframing
 
