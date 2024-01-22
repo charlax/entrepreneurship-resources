@@ -62,6 +62,7 @@
   - [Security](#security)
   - [Stories of startups](#stories-of-startups)
   - [Strategy](#strategy)
+  - [Support](#support)
   - [Teams](#teams)
   - [Toolkits](#toolkits)
   - [UX](#ux)
@@ -388,6 +389,7 @@ Resources:
 - [Do You Have Lightning In a Bottle? How to Benchmark Your Social App](https://a16z.com/do-you-have-lightning-in-a-bottle-how-to-benchmark-your-social-app/)
   - WAU, DAU, DAU/MAU ratio
   - L-ness curve
+- [Measure what matters. Even if you don’t fully control it](https://www.madsjohnsen.com/p/measure-what-matters-even-if-you-dont-fully-control-it)
 
 ### Minimum Viable Product (MVP)
 
@@ -657,6 +659,11 @@ Check out those list of resources:
   - Reversing weakness is hard, painful, likely to result in something merely neutral, not great, and is at high risk of failing completely
   - Leveraging differentiated strengths
   - Leveraging durable differentiated strengths
+
+### Support
+
+- [Customer service is a choice](https://seths.blog/2024/01/customer-service-is-a-choice/), Seth Godin
+  - "You can’t cost cut your way to greatness."
 
 ### Teams
 
