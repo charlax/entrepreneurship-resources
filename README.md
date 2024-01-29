@@ -53,6 +53,7 @@
   - [Product Architecture](#product-architecture)
   - [Product management](#product-management)
   - [Product-market fit](#product-market-fit)
+  - [Product marketing](#product-marketing)
   - [Prototyping](#prototyping)
   - [Rituals](#rituals)
   - [Sales](#sales)
@@ -536,6 +537,10 @@ Product managers:
 > If a person does not already believe they have a problem, they will not be surfing the Internet looking for a solution, and even if they happen upon your website somehow, you cannot get them to spend money to solve a problem they don't think they have.
 >
 > – Jason Cohen
+
+### Product marketing
+
+- ["Macintosh launch brochure too good to not post in its entirety. I read every word of this 100,000 times as a boy.](https://twitter.com/tconrad/status/1750189593771770358?ck_subscriber_id=934271312)
 
 ### Prototyping
 
