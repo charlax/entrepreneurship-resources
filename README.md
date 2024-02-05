@@ -465,6 +465,8 @@ See also the [Prioritization section on my engineering-management list](https://
 - [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 - [My Billion Dollar Mistake](https://producthabits.com/my-billion-dollar-mistake/): why having a prioritisation process is key to keeping your edge.
 - [Prioritization as a Superpower](https://nbt.substack.com/p/prioritization-as-a-superpower)
+- [It just doesn't matter](https://signalvnoise.com/archives2/it_just_doesnt_matter), Signal vs. noise
+  - Most of the time you spend is wasted time on things that just don’t matter. If you can cut out the work and thinking that just doesn’t matter you’ll achieve productivity you’ve never imagined. It’s there if you just don’t pay attention to the things that don’t matter.
 
 ### Processes
 
