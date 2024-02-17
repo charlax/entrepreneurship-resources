@@ -64,6 +64,7 @@
   - [Stories of startups](#stories-of-startups)
   - [Strategy](#strategy)
   - [Support](#support)
+  - [Surveys](#surveys)
   - [Teams](#teams)
   - [Toolkits](#toolkits)
   - [UX](#ux)
@@ -671,6 +672,10 @@ Check out those list of resources:
 
 - [Customer service is a choice](https://seths.blog/2024/01/customer-service-is-a-choice/), Seth Godin
   - "You can’t cost cut your way to greatness."
+
+### Surveys
+
+- [Some good points about wording customer surveys](https://twitter.com/jasonfried/status/1755335872453763173), Jason Fried
 
 ### Teams
 
