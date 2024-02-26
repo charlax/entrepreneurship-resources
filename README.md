@@ -10,6 +10,7 @@
   - [Articles](#articles)
 - [Topics](#topics)
   - [Acquisition](#acquisition)
+  - [Analysis](#analysis)
   - [Attention to details](#attention-to-details)
   - [Attitude](#attitude)
   - [B2B](#b2b)
@@ -17,10 +18,12 @@
   - [Communication](#communication)
   - [Compensation](#compensation)
   - [Competition](#competition)
+  - [Customer obsession](#customer-obsession)
   - [Data (analytics)](#data-analytics)
   - [Decision-making](#decision-making)
   - [Design](#design)
   - [Culture](#culture)
+  - [Entrepreneur](#entrepreneur)
   - [Ethics](#ethics)
   - [Execution](#execution)
   - [Experimentation](#experimentation)
@@ -30,6 +33,7 @@
   - [Finding an idea](#finding-an-idea)
   - [Funding](#funding)
   - [Growth](#growth)
+  - [Handbook](#handbook)
   - [Hiring](#hiring)
   - [Investor relations](#investor-relations)
   - [IP (Intellectual Property) and patents](#ip-intellectual-property-and-patents)
@@ -46,8 +50,10 @@
   - [Pricing](#pricing)
   - [Prioritization](#prioritization)
   - [Processes](#processes)
+  - [Product Architecture](#product-architecture)
   - [Product management](#product-management)
   - [Product-market fit](#product-market-fit)
+  - [Product marketing](#product-marketing)
   - [Prototyping](#prototyping)
   - [Rituals](#rituals)
   - [Sales](#sales)
@@ -57,11 +63,14 @@
   - [Security](#security)
   - [Stories of startups](#stories-of-startups)
   - [Strategy](#strategy)
+  - [Support](#support)
+  - [Surveys](#surveys)
   - [Teams](#teams)
   - [Toolkits](#toolkits)
   - [UX](#ux)
     - [UX Design](#ux-design)
     - [UX Research](#ux-research)
+  - [Velocity](#velocity)
   - [Wireframing](#wireframing)
   - [Writing](#writing)
 - [Other lists](#other-lists)
@@ -115,6 +124,10 @@ Items:
 
 - [The red flags and magic numbers that investors look for in your startup’s metrics – 80 slide deck included!](https://andrewchen.com/investor-metrics-deck/), Andrew Chen
 
+### Analysis
+
+- [cxli233/FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends): Friends don't let friends make certain types of data visualization
+
 ### Attention to details
 
 > Make every detail perfect and limit the number of details to perfect.
@@ -166,6 +179,12 @@ See also the section about founders
 
 Henry Ford
 
+### Customer obsession
+
+- [Why asking your customers what they want doesn't work](https://techbooks.substack.com/p/why-asking-your-customers-what-they)
+  - “If you do not know how to ask the right question, you discover nothing.”
+  - What job did you hire that product to do?
+
 ### Data (analytics)
 
 - [Analytics Academy](https://segment.com/academy/collecting-data/), Segment. Contains lots of processes and ideas about how to be data-driven.
@@ -188,6 +207,7 @@ Henry Ford
 - [Nodesign.dev](https://nodesign.dev/): a collection of tools for developers who have little to no artistic talent
 - [Product design & UX design resources](https://www.degreeless.design/)
 - [The Self-taught UI/UX Designer Roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
+- [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 
 Tools and resources:
 
@@ -203,11 +223,15 @@ Patterns:
 
 - [Inside PayPal](http://paulgraham.com/paypal.html), Vincent Chan
 
+### Entrepreneur
+
+- 🎞 [Steve jobs on Thinkers And Doers](https://www.youtube.com/watch?v=WkJpEG4KbN4&ab_channel=OneinMillion)
+  - The thinkers are also usually the doers.
+
 ### Ethics
 
 > Being good is an adventure far more violent and daring than sailing round the world
-
-G. K. Chesterton
+> – G. K. Chesterton
 
 ### Execution
 
@@ -220,6 +244,7 @@ G. K. Chesterton
   - Clear Goals for Code Review
   - Notice when you're talking past each other
   - Pick the right tools
+- [Things you're allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
 
 ### Experimentation
 
@@ -236,6 +261,9 @@ G. K. Chesterton
 - [Why Evernote Failed to Realize Its Potential](https://nira.com/evernote-history/)
   - In 2011, Evernote started dispersing itself with irrelevant products (e.g., Evernote Food, Moleskine partnership).
   - In contrast, the main app was plagued with bugs.
+- [Before Growth](https://blog.samaltman.com/before-growth)
+  - I think the right initial metric is “do any users love our product so much they spontaneously tell other people to use it?”
+  - Until that’s a “yes”, founders are generally better off focusing on this instead of a growth target.
 
 ### Founders
 
@@ -290,6 +318,10 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 - [Ask HN: Where and how do you find your early adopters?](https://news.ycombinator.com/item?id=31930935)
 - [10 lessons on using the flywheel effect to grow your business](https://www.atlassian.com/blog/strategy/flywheel-effect-10-lessons)
 
+### Handbook
+
+- [Early Stage Startup Handbook](https://shamun.dev/posts/startup-handbook)
+
 ### Hiring
 
 Checkout the hiring section on my [charlax/engineering-management](https://github.com/charlax/engineering-management/).
@@ -324,6 +356,7 @@ Check out the Sales section as well.
 - [How the biggest consumer apps got their first 1,000 users](https://www.lennysnewsletter.com/p/how-the-biggest-consumer-apps-got)
 - [The Pitch Deck](https://www.dropbox.com/s/1zyijlb16yhsiqk/Pitch%20Deck%20-%20Presentation%20made%20with%20Bunkr.pdf?dl=0)
 - [Avatar Marketing: Sell to Carol](https://blog.asmartbear.com/avatar-marketing-sell-to-carol.html), Jason Cohen
+- [The mid-market briar patch](https://blog.asmartbear.com/selling-mid-market.html) (Peter Thiel calls it the "black hole")
 
 Resources:
 
@@ -357,6 +390,10 @@ Resources:
   - A team must honestly and clearly measure *both* direct results *and* lagging outcomes. Not yet achieving the outcome is not a complete failure (luck is always involved), but a learning that will shape future work.
   - The diagram makes clear that there should be a balance between customer-visible work (creating value through new features) and invisible ones (tech debt, reliability, security).
   - If the customer’s business doesn’t thrive, they’ll stop paying for your software, no matter how good the software is. While of course the customer’s business is again a multi-factor, lagging metric, where nearly all the factors are outside of your control, it’s still ultimately the greatest form of value. Even if you can’t control it, you can notice the attributes of customers who tend to thrive, and direct your marketing, sales, and features towards that subset of the market, yielding higher growth and retention, and likely higher profitability.
+- [Do You Have Lightning In a Bottle? How to Benchmark Your Social App](https://a16z.com/do-you-have-lightning-in-a-bottle-how-to-benchmark-your-social-app/)
+  - WAU, DAU, DAU/MAU ratio
+  - L-ness curve
+- [Measure what matters. Even if you don’t fully control it](https://www.madsjohnsen.com/p/measure-what-matters-even-if-you-dont-fully-control-it)
 
 ### Minimum Viable Product (MVP)
 
@@ -431,10 +468,18 @@ See also the [Prioritization section on my engineering-management list](https://
 - [RICE: Simple prioritization for product managers](https://www.intercom.com/blog/rice-simple-prioritization-for-product-managers/)
 - [My Billion Dollar Mistake](https://producthabits.com/my-billion-dollar-mistake/): why having a prioritisation process is key to keeping your edge.
 - [Prioritization as a Superpower](https://nbt.substack.com/p/prioritization-as-a-superpower)
+- [It just doesn't matter](https://signalvnoise.com/archives2/it_just_doesnt_matter), Signal vs. noise
+  - Most of the time you spend is wasted time on things that just don’t matter. If you can cut out the work and thinking that just doesn’t matter you’ll achieve productivity you’ve never imagined. It’s there if you just don’t pay attention to the things that don’t matter.
 
 ### Processes
 
 - [Startup bibles](https://slite.com/startup-bibles): curation of internal processes and resources that successful companies have publicly shared, including pitch deck.
+
+### Product Architecture
+
+- [Modularity Theory - Christensen Institute : Christensen Institute](https://www.christenseninstitute.org/interdependence-modularity/)
+  - Modularity standardizes the way by which components fit together — physically, mechanically, chemically and so on. The parts fit and work together in well-understood, crisply codified ways.
+  - Interdependency between parts requires the same organization to develop both components if it hopes to develop either component.
 
 ### Product management
 
@@ -497,6 +542,10 @@ Product managers:
 > If a person does not already believe they have a problem, they will not be surfing the Internet looking for a solution, and even if they happen upon your website somehow, you cannot get them to spend money to solve a problem they don't think they have.
 >
 > – Jason Cohen
+
+### Product marketing
+
+- ["Macintosh launch brochure too good to not post in its entirety. I read every word of this 100,000 times as a boy.](https://twitter.com/tconrad/status/1750189593771770358?ck_subscriber_id=934271312)
 
 ### Prototyping
 
@@ -590,6 +639,9 @@ Check out those list of resources:
   - Start by getting obsessed with the problem space, not the end vision
   - Start asking customers to pay something, anything, upfront
   - Stop trying to convince investors to have conviction
+- [We built the fastest CI in the world. It failed. Here’s what we learned](https://earthly.dev/blog/shutting-down-earthly-ci/)
+- [Stocketa](https://paulstamatiou.com/stocketa/)
+- [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 
 ### Strategy
 
@@ -618,6 +670,15 @@ Check out those list of resources:
   - Leveraging differentiated strengths
   - Leveraging durable differentiated strengths
 
+### Support
+
+- [Customer service is a choice](https://seths.blog/2024/01/customer-service-is-a-choice/), Seth Godin
+  - "You can’t cost cut your way to greatness."
+
+### Surveys
+
+- [Some good points about wording customer surveys](https://twitter.com/jasonfried/status/1755335872453763173), Jason Fried
+
 ### Teams
 
 - [Small teams](https://stevepulec.com/posts/small/): a list of small teams that achieves large things
@@ -633,6 +694,18 @@ Check out those list of resources:
 See also the relevant section on my [professional-programming list](https://github.com/charlax/professional-programming#design-visual-ux-ui)
 
 - [Top 10 Application-Design Mistakes](https://www.nngroup.com/articles/top-10-application-design-mistakes/), Nielsen Norman Group
+- [Jakob Nielsen's Ten
+Usability Heuristics (PDF)](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf) and [article](https://www.nngroup.com/articles/ten-usability-heuristics/), 1994
+  - Visibility of system status
+  - Match between system and the real world
+  - User control and freedom
+  - Consistency and standards
+  - Error prevention
+  - Recognition rather than recall
+  - Flexibility and efficiency of use
+  - Aesthetic and minimalist design
+  - Help users recognize, diagnose, and recover from errors
+  - Help and documentation
 - [A comprehensive (and honest) list of UX clichés](https://uxdesign.cc/a-comprehensive-and-honest-list-of-ux-clich%C3%A9s-96e2a08fb2e9)
 - [Why Everyone Should Read Customer Support Emails](https://medium.com/s/please-advise/why-everyone-should-read-support-emails-42ca2172e23e)
 - [4 Rules for Intuitive UX](https://learnui.design/blog/4-rules-intuitive-ux.html)
@@ -653,6 +726,18 @@ Resources:
 
 - [GV’s Guide to UX Research for Startups](https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3)
 - [12 Ways To Improve User Interview Questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/)
+
+### Velocity
+
+- [How to ship fast](https://wrap-text.equals.com/p/how-to-ship-fast)
+  - Protect momentum
+  - Beware of prioritization
+  - Stay close to the design
+  - You should be wrong sometimes
+  - Only doers can plan what you work on
+  - Always plan the How
+  - There is no quality vs. speed tradeoff
+  - Capture inspiration
 
 ### Wireframing
 
