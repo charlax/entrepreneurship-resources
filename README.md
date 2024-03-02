@@ -208,6 +208,7 @@ Henry Ford
 - [Product design & UX design resources](https://www.degreeless.design/)
 - [The Self-taught UI/UX Designer Roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
+- [Intentionally bad User Interfaces](https://www.reddit.com/r/badUIbattles/)
 
 Tools and resources:
 
