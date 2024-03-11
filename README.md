@@ -668,6 +668,7 @@ Check out those list of resources:
   - Reversing weakness is hard, painful, likely to result in something merely neutral, not great, and is at high risk of failing completely
   - Leveraging differentiated strengths
   - Leveraging durable differentiated strengths
+- [What Can We Learn from Barnes & Noble's Surprising Turnaround?](https://www.honest-broker.com/p/what-can-we-learn-from-barnes-and)
 
 ### Support
 
