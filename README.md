@@ -14,6 +14,7 @@
   - [Attention to details](#attention-to-details)
   - [Attitude](#attitude)
   - [B2B](#b2b)
+  - [Bootstrap](#bootstrap)
   - [CEO](#ceo)
   - [Communication](#communication)
   - [Compensation](#compensation)
@@ -149,6 +150,10 @@ Jack Dorsey, Twitter co-founder
   - Don’t eat your seed corn
 - [How to test a B2B startup idea](https://acroll.medium.com/how-to-test-a-b2b-startup-idea-abdad48d9ed8)
 
+### Bootstrap
+
+- [50 Big Companies that Started with Little or No Money](https://foundercollective.medium.com/50-big-companies-that-started-with-little-or-no-money-4ef1b68aac25)
+
 ### CEO
 
 See also the section about founders
@@ -184,6 +189,7 @@ Henry Ford
 - [Why asking your customers what they want doesn't work](https://techbooks.substack.com/p/why-asking-your-customers-what-they)
   - “If you do not know how to ask the right question, you discover nothing.”
   - What job did you hire that product to do?
+- [What is CSAT](https://www.qualtrics.com/experience-management/customer/what-is-csat/)
 
 ### Data (analytics)
 
@@ -223,6 +229,7 @@ Patterns:
 ### Culture
 
 - [Inside PayPal](http://paulgraham.com/paypal.html), Vincent Chan
+- [The Curse of Culture](https://stratechery.com/2016/the-curse-of-culture/)
 
 ### Entrepreneur
 
@@ -418,6 +425,7 @@ Resources:
 
 - [How To Be Successful](http://blog.samaltman.com/how-to-be-successful), Sam Altman
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
+- [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
 
 > It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
 
@@ -726,6 +734,10 @@ Resources:
 
 - [GV’s Guide to UX Research for Startups](https://library.gv.com/gv-guide-to-uxresearch-for-startups-b6d0c8ac81b3)
 - [12 Ways To Improve User Interview Questions](https://www.smashingmagazine.com/2020/06/user-interview-questions/)
+- [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/), Nielsen Norman Group
+- [Writing Good Survey Questions: 10 Best Practices](https://www.nngroup.com/articles/survey-best-practices/), Nielsen Norman Group
+- [User Interviews 101](https://www.nngroup.com/articles/user-interviews/), Nielsen Norman Group
+- [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
 
 ### Velocity
 
