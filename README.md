@@ -325,6 +325,11 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 - [UX Case Studies](https://growth.design/case-studies/): a list of growth and UI case studies. The comics format is very engaging.
 - [Ask HN: Where and how do you find your early adopters?](https://news.ycombinator.com/item?id=31930935)
 - [10 lessons on using the flywheel effect to grow your business](https://www.atlassian.com/blog/strategy/flywheel-effect-10-lessons)
+- [What to do when product growth stalls](https://andrewchen.com/growth-stalls/), Andrew Chen
+  - Admit it when people don’t want your product
+  - When retention sucks, but you haven’t growth hacked yet
+  - It makes me happy when I see strong retention numbers with a flat growth curve.
+  - Polish your the UX flows that matter to growth — signup, inviting, payment — and ignore your hardcore user features
 
 ### Handbook
 
@@ -477,6 +482,10 @@ See also the [Prioritization section on my engineering-management list](https://
 - [Prioritization as a Superpower](https://nbt.substack.com/p/prioritization-as-a-superpower)
 - [It just doesn't matter](https://signalvnoise.com/archives2/it_just_doesnt_matter), Signal vs. noise
   - Most of the time you spend is wasted time on things that just don’t matter. If you can cut out the work and thinking that just doesn’t matter you’ll achieve productivity you’ve never imagined. It’s there if you just don’t pay attention to the things that don’t matter.
+- [The Complete Guide to Goal Setting (Backed by Science)](https://markmanson.net/goal-setting), Mark Manson
+  - The means with which you pursue your goals are often just as important, if not more important, than the goal itself.
+  - A supposedly golden rule of goal setting is being able to measure progress towards your goal as precisely as possible. But it turns out the goals that are easiest to measure—external goals—are often the ones that bring us the least satisfaction.
+  - This is why it’s sometimes more valuable to fail at a goal than to succeed—the failure teaches us what we should be pursuing instead.
 
 ### Processes
 
