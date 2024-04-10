@@ -417,6 +417,7 @@ Resources:
   - MVPs are too M and almost never V.
   - An experiment should be Simple, Lovable and Complete.
 - ["Sony was founded in 1946. Its first product was an electric rice cooker. Here are some early products from 11 other well known companies."](https://twitter.com/JonErlichman/status/1563911769793478657)
+- [For God’s sake, follow the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
 
 > The lesson of the MVP is that any additional work beyond what was required to start learning is waste, no matter how important it might have seemed at the time.
 
@@ -658,6 +659,7 @@ Check out those list of resources:
 - [We built the fastest CI in the world. It failed. Here’s what we learned](https://earthly.dev/blog/shutting-down-earthly-ci/)
 - [Stocketa](https://paulstamatiou.com/stocketa/)
 - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
+- [Part II: The failure points from $5m to $100m in ARR](https://tracy.posthaven.com/part-ii-the-failure-points-from-$5m-to-$100m-in-arr)
 
 ### Strategy
 
