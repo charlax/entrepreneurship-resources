@@ -118,6 +118,21 @@ Items:
   - You need to determine whether the pizza is burnt (e.g. did you execute poorly) or if the pizza was a bad idea.
   - You should only do two things at your startup: “write code [and] talk to users.”
   - The best way to build a useless product for months is by letting your excitement influence the conversations you have with users.
+- [Avoid blundering: 80% of a winning strategy](https://longform.asmartbear.com/avoid-blundering/), Jason Cohen
+  - Didn’t talk to customers (and listen)
+  - No market need / Bad market
+  - Did not select a target audience, and clearly communicate the value proposition to them
+  - Too many things had to go right
+  - Founders / investors broke up
+  - Had no differentiation in the market
+  - Refused to seek the truth / refused to see the truth / refused to learn
+  - Launching too early / Launching too late
+  - Premature scaling
+  - Selling to the Enterprise before $20M ARR
+  - Unworkable business model / cannot be profitable
+  - Writing code instead of winning customers
+  - Expanding the target market before winning the target market / moving too quickly to the second product
+  - Lack of passion / endurance
 
 ## Topics
 
