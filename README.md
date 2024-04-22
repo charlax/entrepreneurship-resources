@@ -570,6 +570,7 @@ Product managers:
   - Liquid: Are they willing and able to buy right now?
   - Eager: Do they want to buy from you, specifically?
   - Enduring: Will they still be paying (or paying-it-forward) a year from now?
+- [The 4 Levels of PMF](https://pmf.firstround.com/levels), First Round
 
 > If a person does not already believe they have a problem, they will not be surfing the Internet looking for a solution, and even if they happen upon your website somehow, you cannot get them to spend money to solve a problem they don't think they have.
 >
