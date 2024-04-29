@@ -23,6 +23,7 @@
   - [Data (analytics)](#data-analytics)
   - [Decision-making](#decision-making)
   - [Design](#design)
+  - [Disruption](#disruption)
   - [Culture](#culture)
   - [Entrepreneur](#entrepreneur)
   - [Ethics](#ethics)
@@ -62,6 +63,7 @@
   - [Scaling the team (org & management)](#scaling-the-team-org--management)
   - [Slack & comms](#slack--comms)
   - [Security](#security)
+  - [Speed](#speed)
   - [Stories of startups](#stories-of-startups)
   - [Strategy](#strategy)
   - [Support](#support)
@@ -241,6 +243,10 @@ Patterns:
 - [Never Use a Warning When you Mean Undo](https://alistapart.com/article/neveruseawarning/), A List Apart
 - [16 little UI design rules that make a big impact](https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules?ck_subscriber_id=934271312)
 
+### Disruption
+
+- [What Clayton Christensen Got Wrong](https://stratechery.com/2013/clayton-christensen-got-wrong/), Stratechery
+
 ### Culture
 
 - [Inside PayPal](http://paulgraham.com/paypal.html), Vincent Chan
@@ -250,6 +256,9 @@ Patterns:
 
 - 🎞 [Steve jobs on Thinkers And Doers](https://www.youtube.com/watch?v=WkJpEG4KbN4&ab_channel=OneinMillion)
   - The thinkers are also usually the doers.
+- [The 100 Best Bits of Advice from 10 Years of First Round Review](https://review.firstround.com/100-best-bits-of-advice-from-first-round-review/), First Round
+- [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process.](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
+- [Projects and Companies](https://blog.samaltman.com/projects-and-companies), Sam Altman
 
 ### Ethics
 
@@ -320,6 +329,7 @@ See also the section about CEO
   - Reasoning from first principles allows us to step outside of history and conventional wisdom and see what is possible. \* Many people mistakenly believe that creativity is something that only some of us are born with, and either we have it or we don’t. Fortunately, there seems to be ample evidence that this isn’t true.
 - [Don’t think to write, write to think](https://herbertlui.net/dont-think-to-write-write-to-think/)
 - [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done), HBR, Clayton M. Christensen
+- [Creativity faucet: Increase your creativity](https://www.julian.com/blog/creativity-faucet)
 
 > As to methods, there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble.
 > — Harrington Emerson
@@ -345,6 +355,7 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
   - When retention sucks, but you haven’t growth hacked yet
   - It makes me happy when I see strong retention numbers with a flat growth curve.
   - Polish your the UX flows that matter to growth — signup, inviting, payment — and ignore your hardcore user features
+- [Superlinear Returns](https://paulgraham.com/superlinear.html), Paul Graham
 
 ### Handbook
 
@@ -420,6 +431,7 @@ Resources:
   - WAU, DAU, DAU/MAU ratio
   - L-ness curve
 - [Measure what matters. Even if you don’t fully control it](https://www.madsjohnsen.com/p/measure-what-matters-even-if-you-dont-fully-control-it)
+- [Do You Have Lightning In a Bottle? How to Benchmark Your Social App](https://a16z.com/do-you-have-lightning-in-a-bottle-how-to-benchmark-your-social-app/), Andreesen Horowitz
 
 ### Minimum Viable Product (MVP)
 
@@ -433,6 +445,7 @@ Resources:
   - An experiment should be Simple, Lovable and Complete.
 - ["Sony was founded in 1946. Its first product was an electric rice cooker. Here are some early products from 11 other well known companies."](https://twitter.com/JonErlichman/status/1563911769793478657)
 - [For God’s sake, follow the Lean Startup Method](https://www.june.so/blog/lean-startup-method-2024)
+- [Your customers hate MVPs. Make a SLC instead.](https://longform.asmartbear.com/slc/)
 
 > The lesson of the MVP is that any additional work beyond what was required to start learning is waste, no matter how important it might have seemed at the time.
 
@@ -502,6 +515,7 @@ See also the [Prioritization section on my engineering-management list](https://
   - The means with which you pursue your goals are often just as important, if not more important, than the goal itself.
   - A supposedly golden rule of goal setting is being able to measure progress towards your goal as precisely as possible. But it turns out the goals that are easiest to measure—external goals—are often the ones that bring us the least satisfaction.
   - This is why it’s sometimes more valuable to fail at a goal than to succeed—the failure teaches us what we should be pursuing instead.
+- [Backlog size is inversely proportional to how often you talk to customers](https://bitbytebit.substack.com/p/the-size-of-your-backlog-is-inversely)
 
 ### Processes
 
@@ -647,6 +661,10 @@ Check out those list of resources:
 - [The SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist)
 - [Early Security for Startups](https://devd.me/log/posts/startup-security/)
 
+### Speed
+
+- [Speed as a Habit](https://review.firstround.com/speed-as-a-habit/)
+
 ### Stories of startups
 
 - [From Show HN to Series D](https://segment.com/blog/show-hn-to-series-d/)
@@ -704,6 +722,7 @@ Check out those list of resources:
   - Leveraging differentiated strengths
   - Leveraging durable differentiated strengths
 - [What Can We Learn from Barnes & Noble's Surprising Turnaround?](https://www.honest-broker.com/p/what-can-we-learn-from-barnes-and)
+- [In Defense of Strategy](https://www.notboring.co/p/in-defense-of-strategy)
 
 ### Support
 
@@ -752,6 +771,7 @@ Usability Heuristics (PDF)](https://media.nngroup.com/media/articles/attachments
 - 📚 [Selected Books on Design, User eXperience, Mobile, Accessibility & more](https://stephaniewalter.design/blog/bibliography-selected-books-about-design-user-experience/?ref=uxdesignweekly), Stéphanie Walter. Includes books about UX research, UX design, psychology, information architecture, content strategy, web design, typography, methods, collaboration, mobile, accessibility...
 - [BATUX - Using a UX process to redesign Batman’s classic outfit](http://batux.design/): a very engaging way to learn about the UX process.
 - [Sketching: the Visual Thinking Power Tool](https://alistapart.com/article/sketching-the-visual-thinking-power-tool/)
+- [Eigensolutions: composability as the antidote to overfit](https://lea.verou.me/blog/2023/eigensolutions/)
 
 Resources:
 
