@@ -141,6 +141,8 @@ Items:
 ### Acquisition
 
 - [The red flags and magic numbers that investors look for in your startup’s metrics – 80 slide deck included!](https://andrewchen.com/investor-metrics-deck/), Andrew Chen
+- [Why the worst users come from referral programs, free trials, coupons, and gamification](https://andrewchen.com/worst-users-referral-trials-coupons-gamification/), Andrew Chen
+- [The Law of Shitty Clickthroughs](https://andrewchen.com/the-law-of-shitty-clickthroughs/), Andrew Chen
 
 ### Analysis
 
