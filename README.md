@@ -21,6 +21,7 @@
   - [Competition](#competition)
   - [Customer obsession](#customer-obsession)
   - [Data (analytics)](#data-analytics)
+  - [Data-driven](#data-driven)
   - [Decision-making](#decision-making)
   - [Design](#design)
   - [Disruption](#disruption)
@@ -185,6 +186,13 @@ See also the section about founders
   - Ditch your to-do list
   - Don’t let recency determine priority
   - The only way to learn who your customers are and deeply understand what problems you can solve for them is to hear their stories first-hand.
+- [Andrej Karpathy, who worked directly under Elon, explains 4 ways Elon runs his companies differently](https://x.com/seanpk/status/1800146124264858069)
+  - Small, strong, and highly technical teams. Parkinson's law: work expands to fill the time available for its completion. Too many people on a project: folks start focusing on less important tasks.
+  - Wants the workplace to be vibrant. No large meetings. Anyone can walk out of a meeting if they're not contributing or don't feel they need to be there.
+  - Skip layers and stay ultra-connected to the teams. Spends 99% of time with people working on projects.
+  - Remove bottlenecks wherever possible.
+  - [See productivity recommendations](https://x.com/seanpk/status/1800146370143354892/photo/1)
+    - "If following a "company rule" is obviously ridiculous in a particular situation, such that it would make for a great Dilbert cartoon, then the rule should change."
 
 ### Communication
 
@@ -214,6 +222,12 @@ Henry Ford
 
 - [Analytics Academy](https://segment.com/academy/collecting-data/), Segment. Contains lots of processes and ideas about how to be data-driven.
 - [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+
+### Data-driven
+
+See also the section about [OKR in my engineering-management repository](https://github.com/charlax/engineering-management/).
+
+- [Why data-driven product decisions are hard (sometimes impossible)](https://andrewchen.substack.com/p/why-its-so-hard-to-be-data-driven), Andrew Chen
 
 ### Decision-making
 
