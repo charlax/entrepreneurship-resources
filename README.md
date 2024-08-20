@@ -64,6 +64,7 @@
   - [Scaling the team (org & management)](#scaling-the-team-org--management)
   - [Slack & comms](#slack--comms)
   - [Security](#security)
+  - [Software as a service (SaaS)](#software-as-a-service-saas)
   - [Speed](#speed)
   - [Stories of startups](#stories-of-startups)
   - [Strategy](#strategy)
@@ -676,6 +677,10 @@ Check out those list of resources:
 
 - [The SaaS CTO Security Checklist](https://www.sqreen.com/checklists/saas-cto-security-checklist)
 - [Early Security for Startups](https://devd.me/log/posts/startup-security/)
+
+### Software as a service (SaaS)
+
+- [11 years of SaaS product strategy](https://ghiculescu.substack.com/p/11-years-of-saas-product-strategy)
 
 ### Speed
 
