@@ -411,6 +411,7 @@ Check out the Sales section as well.
 - [The Pitch Deck](https://www.dropbox.com/s/1zyijlb16yhsiqk/Pitch%20Deck%20-%20Presentation%20made%20with%20Bunkr.pdf?dl=0)
 - [Avatar Marketing: Sell to Carol](https://blog.asmartbear.com/avatar-marketing-sell-to-carol.html), Jason Cohen
 - [The mid-market briar patch](https://blog.asmartbear.com/selling-mid-market.html) (Peter Thiel calls it the "black hole")
+- 🎞 [How The Savannah Bananas Creates The Most Unforgettable Experience In Baseball HISTORY](https://www.youtube.com/watch?v=QnxRZkTJ1dg), Jesse Cole
 
 Resources:
 
@@ -477,6 +478,7 @@ Resources:
 - [How To Be Successful](http://blog.samaltman.com/how-to-be-successful), Sam Altman
 - [How to Be Great? Just Be Good, Repeatably](https://blog.stephsmith.io/how-to-be-great/)
 - [The Dumber Side of Smart People](https://collabfund.com/blog/the-dumber-side-of-smart-people/)
+- [A manifesto for small teams doing important work](https://seths.blog/2016/02/a-manifesto-for-small-teams-doing-important-work/)
 
 > It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
 
