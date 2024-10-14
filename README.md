@@ -333,6 +333,7 @@ See also the section about CEO
   - Keep pace with expertise
   - Overcome discouragement
 - [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill), Chris Dixon
+- [Founder Mode](https://paulgraham.com/foundermode.html), Paul Graham
 
 ### Finding an idea
 
