@@ -160,6 +160,7 @@ Jack Dorsey, Twitter co-founder
 
 - [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 - [How to Do Great Work](http://paulgraham.com/greatwork.html), Paul Graham
+- [To the crazy ones](https://world.hey.com/dhh/to-the-crazy-ones-e43822c7)
 
 ### B2B
 
@@ -334,6 +335,9 @@ See also the section about CEO
   - Overcome discouragement
 - [Climbing the wrong hill](https://cdixon.org/2009/09/19/climbing-the-wrong-hill), Chris Dixon
 - [Founder Mode](https://paulgraham.com/foundermode.html), Paul Graham
+- [Coaching Founder Mode](https://www.svpg.com/coaching-founder-mode/), SVPG
+  - Founder mode does not mean hands-off delegation, but it also does not mean micro-managing.  It is a manifestation of the passion for the customer and the problems to be solved, with the goal of collaborating closely with product teams to discover and deliver winning solutions.
+  - The key to scaling successfully for a product model company is to have strong, founder-mode leaders that work to develop other strong, founder-mode leaders.
 
 ### Finding an idea
 
