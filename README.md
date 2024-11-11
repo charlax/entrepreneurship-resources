@@ -674,6 +674,7 @@ Check out those list of resources:
 ### Scaling the team (org & management)
 
 - [When Executives Break](http://blog.eladgil.com/2021/02/when-executives-break.html)
+- [4 lessons from small teams that ship fast](https://read.engineerscodex.com/p/how-small-software-teams-outperform)
 
 ### Slack & comms
 
