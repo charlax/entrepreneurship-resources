@@ -161,6 +161,7 @@ Jack Dorsey, Twitter co-founder
 - [How to stop procrastinating by using the Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
 - [How to Do Great Work](http://paulgraham.com/greatwork.html), Paul Graham
 - [To the crazy ones](https://world.hey.com/dhh/to-the-crazy-ones-e43822c7)
+- [Lessons from Peter Thiel](https://www.8vc.com/resources/lessons-from-peter-thiel)
 
 ### B2B
 
