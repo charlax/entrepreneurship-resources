@@ -581,6 +581,7 @@ See also the [Prioritization section on my engineering-management list](https://
   - Learn from great product thinkers
   - Be curious about changes in technology and your domain
 - [Product development guiding principle: Use quality to generate speed](https://jchyip.medium.com/guiding-principle-speed-generates-quality-f0672db3e4bc)
+- ["Elon Musk explains the 5-step process he tries to implement in his companies to ensure efficient engineering: 1. Make your requirements less dumb 2. Try very hard to delete parts or processes 3. Simplify/optimize 4. Accelerate cycle time 5. Automate](https://x.com/elon_docs/status/1783970554929619089)
 
 Product managers:
 
@@ -596,6 +597,7 @@ Product managers:
 - [A pause to revisit: What’s the Product Manager’s role?](https://medium.com/paper-planes/a-pause-to-revisit-whats-the-product-manager-s-role-7dbc6c37b902)
   - The Product Manager’s ultimate responsibility is to create a solution that is valuable, viable, feasible, and usable.
   - The Product Manager’s role is to understand customer problems very well, rally the team to build the winning product, and then iterate until it gets it right.
+- [7 uncommon opinions after 10 years of product management](https://medium.com/@talraviv/7-uncommon-opinions-after-10-years-of-product-management-b3b5e69c255e)
 
 ### Product-market fit
 
