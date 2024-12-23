@@ -278,6 +278,7 @@ Patterns:
 - [The 100 Best Bits of Advice from 10 Years of First Round Review](https://review.firstround.com/100-best-bits-of-advice-from-first-round-review/), First Round
 - [27 Years Ago, Steve Jobs Said the Best Employees Focus on Content, Not Process.](https://www.inc.com/jeff-haden/27-years-ago-steve-jobs-said-best-employees-focus-on-content-not-process-workplace-research-shows-he-was-right.html)
 - [Projects and Companies](https://blog.samaltman.com/projects-and-companies), Sam Altman
+- [Don’t Go with the Flow](https://avivby.medium.com/dont-go-with-the-flow-d93822d5d197)
 
 ### Ethics
 
@@ -582,6 +583,8 @@ See also the [Prioritization section on my engineering-management list](https://
   - Be curious about changes in technology and your domain
 - [Product development guiding principle: Use quality to generate speed](https://jchyip.medium.com/guiding-principle-speed-generates-quality-f0672db3e4bc)
 - ["Elon Musk explains the 5-step process he tries to implement in his companies to ensure efficient engineering: 1. Make your requirements less dumb 2. Try very hard to delete parts or processes 3. Simplify/optimize 4. Accelerate cycle time 5. Automate](https://x.com/elon_docs/status/1783970554929619089)
+- [As a user, I don’t want to.](https://uxdesign.cc/as-a-user-i-dont-want-to-973990a30158)
+  - “As a user, I want to login.” The biggest user story lie every told.
 
 Product managers:
 
