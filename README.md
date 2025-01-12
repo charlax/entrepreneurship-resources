@@ -527,6 +527,7 @@ Theodore Roosevelt
 - [Nine Rules from Monetizing Innovation](https://www.skmurphy.com/blog/2016/11/16/nine-rules-from-monetizing-innovation/)
 - [Pricing Your Product](https://articles.sequoiacap.com/pricing-your-product), Sequoia
 - [Pricing determines your business model](https://longform.asmartbear.com/pricing-determines-your-business-model/), Jason Cohen
+- [Monthly Vs. Annual Subscription Model: What Is Best For You?](https://staxbill.com/monthly-annual-subscription-model-for-business/)
 
 ### Prioritization
 
@@ -601,6 +602,7 @@ Product managers:
   - The Product Manager’s ultimate responsibility is to create a solution that is valuable, viable, feasible, and usable.
   - The Product Manager’s role is to understand customer problems very well, rally the team to build the winning product, and then iterate until it gets it right.
 - [7 uncommon opinions after 10 years of product management](https://medium.com/@talraviv/7-uncommon-opinions-after-10-years-of-product-management-b3b5e69c255e)
+- [The Lindy PM Standard of Performance](https://docs.google.com/document/d/1jZnuTXUlpwCSg6n24qSBuCNvaHbj025EDnpGwEp98As/mobilebasic), Florent Crivello. Started as a PM job description, ended up as an amazing set of advices and product principles.
 
 ### Product-market fit
 
