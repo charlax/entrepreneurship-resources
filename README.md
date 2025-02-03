@@ -419,6 +419,7 @@ Check out the Sales section as well.
 - [Avatar Marketing: Sell to Carol](https://blog.asmartbear.com/avatar-marketing-sell-to-carol.html), Jason Cohen
 - [The mid-market briar patch](https://blog.asmartbear.com/selling-mid-market.html) (Peter Thiel calls it the "black hole")
 - 🎞 [How The Savannah Bananas Creates The Most Unforgettable Experience In Baseball HISTORY](https://www.youtube.com/watch?v=QnxRZkTJ1dg), Jesse Cole
+- [An analysis for ProductHunt](https://components.one/posts/gamer-and-nihilist-product-hunt)
 
 Resources:
 
