@@ -761,6 +761,8 @@ Check out those list of resources:
   - Leveraging durable differentiated strengths
 - [What Can We Learn from Barnes & Noble's Surprising Turnaround?](https://www.honest-broker.com/p/what-can-we-learn-from-barnes-and)
 - [In Defense of Strategy](https://www.notboring.co/p/in-defense-of-strategy)
+- [How to Help Your Company “Speak” Strategy](https://noaganot.medium.com/how-to-help-your-company-speak-strategy-ff4fbc74d7e6)
+  - Speak the unspoken strategy
 
 ### Support
 
