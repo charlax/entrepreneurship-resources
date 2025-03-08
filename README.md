@@ -47,6 +47,7 @@
   - [Metrics](#metrics)
   - [Minimum Viable Product (MVP)](#minimum-viable-product-mvp)
   - [Mindset](#mindset)
+  - [Mistakes](#mistakes)
   - [Pitch decks](#pitch-decks)
   - [Pivoting](#pivoting)
   - [Predicting the future](#predicting-the-future)
@@ -220,6 +221,7 @@ Henry Ford
   - “If you do not know how to ask the right question, you discover nothing.”
   - What job did you hire that product to do?
 - [What is CSAT](https://www.qualtrics.com/experience-management/customer/what-is-csat/)
+- [Everyone Should Read Customer Support Emails](https://medium.com/s/please-advise/why-everyone-should-read-support-emails-42ca2172e23e)
 
 ### Data (analytics)
 
@@ -251,6 +253,8 @@ See also the section about [OKR in my engineering-management repository](https:/
 - [The Self-taught UI/UX Designer Roadmap in 2021](https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb)
 - [The Negative Impact of Mobile-First Web Design on Desktop](https://www.nngroup.com/articles/content-dispersion/)
 - [Intentionally bad User Interfaces](https://www.reddit.com/r/badUIbattles/)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [How to simplify your design. 20+ easy to follow illustrated examples](https://uxplanet.org/how-to-simplify-your-design-69d97fde11b9)
 
 Tools and resources:
 
@@ -489,8 +493,11 @@ Resources:
 - [A manifesto for small teams doing important work](https://seths.blog/2016/02/a-manifesto-for-small-teams-doing-important-work/)
 
 > It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat.
+> – Theodore Roosevelt
 
-Theodore Roosevelt
+### Mistakes
+
+- [The 10 most common entrepreneurial mistakes I’ve seen students make](https://salon.thefamily.co/the-10-most-common-entrepreneurial-mistakes-ive-seen-students-make-547d7f7ac0d4)
 
 ### Pitch decks
 
@@ -587,6 +594,8 @@ See also the [Prioritization section on my engineering-management list](https://
 - ["Elon Musk explains the 5-step process he tries to implement in his companies to ensure efficient engineering: 1. Make your requirements less dumb 2. Try very hard to delete parts or processes 3. Simplify/optimize 4. Accelerate cycle time 5. Automate](https://x.com/elon_docs/status/1783970554929619089)
 - [As a user, I don’t want to.](https://uxdesign.cc/as-a-user-i-dont-want-to-973990a30158)
   - “As a user, I want to login.” The biggest user story lie every told.
+- [Startups don’t need product managers who are visionaries](https://venturebeat.com/entrepreneur/startups-dont-need-product-managers-who-are-visionaries/), VentureBeat
+- [How to Hire a Product Manager: the Classic Essay](https://www.bringthedonuts.com/essays/productmanager.html), Ken Norton
 
 Product managers:
 
@@ -776,6 +785,7 @@ Check out those list of resources:
 ### Teams
 
 - [Small teams](https://stevepulec.com/posts/small/): a list of small teams that achieves large things
+- [Build a Team that Ships](https://nav.al/build-a-team-that-ships)
 
 ### Toolkits
 
