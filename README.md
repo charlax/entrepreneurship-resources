@@ -596,6 +596,7 @@ See also the [Prioritization section on my engineering-management list](https://
   - “As a user, I want to login.” The biggest user story lie every told.
 - [Startups don’t need product managers who are visionaries](https://venturebeat.com/entrepreneur/startups-dont-need-product-managers-who-are-visionaries/), VentureBeat
 - [How to Hire a Product Manager: the Classic Essay](https://www.bringthedonuts.com/essays/productmanager.html), Ken Norton
+- [Product Principles](https://handbook.gitlab.com/handbook/product/product-principles/), The GitLab Handbook
 
 Product managers:
 
