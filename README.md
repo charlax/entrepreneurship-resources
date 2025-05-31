@@ -615,6 +615,11 @@ See also the [Prioritization section on my engineering-management list](https://
   - Be curious about changes in technology and your domain
 - [Product development guiding principle: Use quality to generate speed](https://jchyip.medium.com/guiding-principle-speed-generates-quality-f0672db3e4bc)
 - ["Elon Musk explains the 5-step process he tries to implement in his companies to ensure efficient engineering: 1. Make your requirements less dumb 2. Try very hard to delete parts or processes 3. Simplify/optimize 4. Accelerate cycle time 5. Automate](https://x.com/elon_docs/status/1783970554929619089)
+  - Also in [Musk's 5 Step Design Process](https://modelthinkers.com/mental-model/musks-5-step-design-process)
+  - "Your requirements are definitely dumb, it does not matter who gave them to you"
+  - "If you’re not adding things back in at least 10% of the time, you’re clearly not deleting enough"
+  - "Possibly the most common error of a smart engineer is to optimise a thing that should not exist"
+  - "If you’re digging your grave, don’t dig faster"
 - [As a user, I don’t want to.](https://uxdesign.cc/as-a-user-i-dont-want-to-973990a30158)
   - “As a user, I want to login.” The biggest user story lie every told.
 - [Startups don’t need product managers who are visionaries](https://venturebeat.com/entrepreneur/startups-dont-need-product-managers-who-are-visionaries/), VentureBeat
