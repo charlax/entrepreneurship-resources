@@ -161,6 +161,7 @@ Items:
   - Most companies don't die because they run out of money
   - Be nice! Or at least don't be a jerk
   - Get sleep and exercise - take care of yourself
+- [12 ways to fail a cybersecurity startup](https://ventureinsecurity.net/p/12-ways-to-fail-a-cybersecurity-startup)
 
 ## Topics
 
