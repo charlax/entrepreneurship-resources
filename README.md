@@ -463,6 +463,7 @@ Resources:
 - [Most startup theory is ex-post, therefore bs](https://shafyy.com/post/startup-theory-ex-post/)
   - Do you think Musk copied that strategy from the business school he never went to? Do you think Brian Chesky of Airbnb heard that strategy from a friend?
   - The most satisfying thing about being an entrepreneur is that you can do what you think makes sense. That doesn’t mean don’t get advice. But get advice from people who know you, who you know, and most importantly, learn how to apply that advice.
+- [Business Advice Plagued by Survivor Bias](https://longform.asmartbear.com/survivor-bias/)
 
 > @awilkinson: "Here's the number I used to win the lottery" – Entrepreneurs giving advice
 
