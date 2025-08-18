@@ -221,6 +221,15 @@ See also the section about founders
   - Remove bottlenecks wherever possible.
   - [See productivity recommendations](https://x.com/seanpk/status/1800146370143354892/photo/1)
     - "If following a "company rule" is obviously ridiculous in a particular situation, such that it would make for a great Dilbert cartoon, then the rule should change."
+- [Do You Feel Pressure or Do You Apply Pressure?](https://a16z.com/do-you-feel-pressure-or-do-you-apply-pressure/), Andreessen Horowitz
+  - For any given company, the larger the company becomes, the more opportunities emerge to screw it up.
+  - The more screwed up your company, the more people will complain about it and blame you.
+  - The key to breaking the cycle is to stop feeling pressure and to start applying it. The most basic way to do this is to assign the problems to your team. This transfers the pressure from you to the organization and has the added benefit of empowering the team.
+  - What if: The executive fundamentally disagrees that there is a problem
+  - What if: The problem is cross-functional
+  - What if: There is no logical owner
+  - What if: The assigned executive tries to give it back
+  - Using Pressure to Evaluate Executives
 
 ### Communication
 
