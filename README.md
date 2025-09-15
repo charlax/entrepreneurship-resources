@@ -667,6 +667,11 @@ Product managers:
   - Eager: Do they want to buy from you, specifically?
   - Enduring: Will they still be paying (or paying-it-forward) a year from now?
 - [The 4 Levels of PMF](https://pmf.firstround.com/levels), First Round
+- [Linear’s Playbook for building a world-class Product](https://timfrin.substack.com/p/linears-playbook-for-building-a-world)
+  - Start with a segment you can fully delight: optimizing the product for a small, specific pool drives retention and sets the foundation for growth.
+  - Anchor roadmap decisions to a 6-month mission: label anything outside the mission as a “side quest” to maintain focus.
+  - Maintain product simplicity as you scale: avoid adding features that serve only out-of-scope customers too early.
+  - Invest in changelogs and visible progress: publicizing small, frequent improvements keeps users engaged and reinforces trust.
 
 > If a person does not already believe they have a problem, they will not be surfing the Internet looking for a solution, and even if they happen upon your website somehow, you cannot get them to spend money to solve a problem they don't think they have.
 >
