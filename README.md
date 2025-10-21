@@ -427,6 +427,7 @@ Tim O’Reilly, O’Reilly Media founder, and CEO
 Checkout the hiring section on my [charlax/engineering-management](https://github.com/charlax/engineering-management/).
 
 - [Good Job Descriptions](https://www.goodjobdescription.com/): good job descriptions from the most loved companies
+- [Hire people who give a shit](https://alexw.substack.com/p/hire)
 
 ### Investor relations
 
