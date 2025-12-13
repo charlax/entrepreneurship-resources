@@ -572,6 +572,7 @@ Resources:
 - [Pricing Your Product](https://articles.sequoiacap.com/pricing-your-product), Sequoia
 - [Pricing determines your business model](https://longform.asmartbear.com/pricing-determines-your-business-model/), Jason Cohen
 - [Monthly Vs. Annual Subscription Model: What Is Best For You?](https://staxbill.com/monthly-annual-subscription-model-for-business/)
+- [The Complete Guide to SaaS Pricing Strategy](https://tomtunguz.com/pricing-guide/)
 
 ### Prioritization
 
