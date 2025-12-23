@@ -187,6 +187,7 @@ Jack Dorsey, Twitter co-founder
 - [How to Do Great Work](http://paulgraham.com/greatwork.html), Paul Graham
 - [To the crazy ones](https://world.hey.com/dhh/to-the-crazy-ones-e43822c7)
 - [Lessons from Peter Thiel](https://www.8vc.com/resources/lessons-from-peter-thiel)
+- [The Four Quadrants of Conformism](https://paulgraham.com/conformism.html), Paul Graham
 
 ### B2B
 
@@ -256,6 +257,7 @@ Henry Ford
   - What job did you hire that product to do?
 - [What is CSAT](https://www.qualtrics.com/experience-management/customer/what-is-csat/)
 - [Everyone Should Read Customer Support Emails](https://medium.com/s/please-advise/why-everyone-should-read-support-emails-42ca2172e23e)
+- [Steve Jobs on Customer Experience](https://www.youtube.com/watch?v=r2O5qKZlI50)
 
 ### Data (analytics)
 
@@ -759,6 +761,7 @@ Check out those list of resources:
 ### Speed
 
 - [Speed as a Habit](https://review.firstround.com/speed-as-a-habit/)
+- [How to Build Anything Extremely Quickly](https://learnhowtolearn.org/how-to-build-extremely-quickly/)
 
 ### Stories of startups
 
@@ -834,6 +837,13 @@ Check out those list of resources:
 
 - [Small teams](https://stevepulec.com/posts/small/): a list of small teams that achieves large things
 - [Build a Team that Ships](https://nav.al/build-a-team-that-ships)
+- [Lieutenants are the limiting reagent](https://blog.sbensu.com/posts/lieutenants/). The limiting reagent inside of big tech companies is lieutenants: effective people with agency who are motivated to ship.
+
+### Technical strategy
+
+See also [engineering-management](https://github.com/charlax/engineering-management)
+
+- [My role as a founder CTO](https://miguelcarranza.es/cto-year-6)
 
 ### Toolkits
 
