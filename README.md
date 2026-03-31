@@ -833,6 +833,10 @@ Check out those list of resources:
 - [In Defense of Strategy](https://www.notboring.co/p/in-defense-of-strategy)
 - [How to Help Your Company “Speak” Strategy](https://noaganot.medium.com/how-to-help-your-company-speak-strategy-ff4fbc74d7e6)
   - Speak the unspoken strategy
+- [Why Big Companies Keep Failing: The Stack Fallacy](https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/), TechCrunch
+  - Stack fallacy is the mistaken belief that it is trivial to build the layer above yours.
+  - Database companies believe that SaaS apps are “just a database app” — this gives them false confidence that they can easily build, compete and win in this new market.
+  - The bottleneck for success often is not knowledge of the tools, but lack of understanding of the customer needs.
 
 ### Support
 
