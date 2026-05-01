@@ -487,6 +487,8 @@ Resources:
   - Do you think Musk copied that strategy from the business school he never went to? Do you think Brian Chesky of Airbnb heard that strategy from a friend?
   - The most satisfying thing about being an entrepreneur is that you can do what you think makes sense. That doesn’t mean don’t get advice. But get advice from people who know you, who you know, and most importantly, learn how to apply that advice.
 - [Business Advice Plagued by Survivor Bias](https://longform.asmartbear.com/survivor-bias/)
+- [We Have Learned Nothing](https://colossus.com/article/we-have-learned-nothing-startup-pundits/)
+  - Any method for building a startup, once widely known, causes founders to converge on the same answers. If everyone follows the same bestselling startup techniques, everyone ends up building the same company and, with no differentiation, most of those companies fail. The truth is, anytime someone insists on a method for how to build a successful startup, you should do something different. The paradox is self-evident, once you think about it, but it contains the seed for how to move forward.
 
 > @awilkinson: "Here's the number I used to win the lottery" – Entrepreneurs giving advice
 
