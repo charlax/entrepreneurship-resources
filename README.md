@@ -358,6 +358,7 @@ Patterns:
 - [Before Growth](https://blog.samaltman.com/before-growth)
   - I think the right initial metric is “do any users love our product so much they spontaneously tell other people to use it?”
   - Until that’s a “yes”, founders are generally better off focusing on this instead of a growth target.
+- [Jeff Bezos was told "you have enough ideas to kill Amazon"](https://www.youtube.com/shorts/3N_oWQCmTYg)
 
 ### Founders
 
