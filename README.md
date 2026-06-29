@@ -164,6 +164,7 @@ Items:
   - Be nice! Or at least don't be a jerk
   - Get sleep and exercise - take care of yourself
 - [12 ways to fail a cybersecurity startup](https://ventureinsecurity.net/p/12-ways-to-fail-a-cybersecurity-startup)
+- [Halvar’s Guide to Entrepreneurship](https://thomasdullien.github.io/guides/entrepreneurship/)
 
 ## Topics
 
