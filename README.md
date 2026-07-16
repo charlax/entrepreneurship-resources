@@ -866,6 +866,7 @@ See also [engineering-management](https://github.com/charlax/engineering-managem
 ### Toolkits
 
 - [Techstars' entrepreneur toolkit](https://toolkit.techstars.com/)
+- [SmartBizCalc](https://smartbizcalc.com) - 300+ free business calculators covering tax, pricing, payroll, insurance, and break-even analysis for small business owners and entrepreneurs
 
 ### UX
 
