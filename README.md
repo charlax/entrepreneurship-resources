@@ -183,6 +183,7 @@ Items:
 > Make every detail perfect and limit the number of details to perfect.
 
 Jack Dorsey, Twitter co-founder
+- [Let Me Think](https://letmethink.cc/) - A digital wellbeing product studio creating calm tools for attention, creativity, and real connection.
 
 ### Attitude
 
