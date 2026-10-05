@@ -559,6 +559,7 @@ Resources:
 - [The Only 10 Slides You Need in Your Pitch](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/), Guy Kawasaki
 - [Start House](https://starthouse.xyz/)
 - [On the Road to Failure](https://www.slidebook.io/blog/article/on-the-road-to-failure/): presentations and pitch decks by the largest business failures and corporate frauds
+- [AngelBacked pitch deck database](https://www.angelbacked.co/tools/pitch-deck-database): 1,500+ real startup pitch decks, searchable by industry and stage
 
 
 ### Pivoting
