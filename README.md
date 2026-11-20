@@ -753,6 +753,7 @@ Check out those list of resources:
   - Know Your Worth
   - Plot Your Way to the Next Milestone
   - Run the Public Playbook
+- [Explore vs Execute](https://longform.asmartbear.com/explore-execute/), A Smart Bear
 
 ### Scaling the team (org & management)
 
